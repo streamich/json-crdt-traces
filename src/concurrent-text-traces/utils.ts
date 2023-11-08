@@ -14,7 +14,7 @@ export const traces = [
 export type ConcurrentTraceName = typeof traces[number];
 
 export const filename = (name: ConcurrentTraceName) =>
-  path.resolve(rootFolder, 'node_modules', 'editing-traces', 'concurrent_traces', `${name}.json.gz`);
+  path.join(rootFolder, 'node_modules', 'editing-traces', 'concurrent_traces', `${name}.json.gz`);
 
 export const load = (traceName: ConcurrentTraceName): ConcurrentTrace => {
   const traceFile = filename(traceName);

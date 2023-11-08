@@ -1,0 +1,53 @@
+{
+  "name": "json-crdt-traces",
+  "version": "0.0.1",
+  "description": "Sample editing traces for JSON CRDT",
+  "author": {
+    "name": "streamich",
+    "url": "https://github.com/streamich"
+  },
+  "homepage": "https://github.com/streamich/json-crdt-traces",
+  "repository": "streamich/json-crdt-traces",
+  "license": "CC-BY-SA-4.0",
+  "funding": "https://github.com/sponsors/streamich",
+  "main": "index.js",
+  "engines": {
+    "node": ">=16.0"
+  },
+  "files": [
+    "LICENSE",
+    "traces/"
+  ],
+  "scripts": {
+    "prettier": "prettier --ignore-path .gitignore --write \"src/**/*.{ts,tsx,js,jsx}\"",
+    "prettier:check": "prettier --ignore-path .gitignore --list-different 'src/**/*.{ts,tsx,js,jsx}'",
+    "clean": "rimraf lib es6 es2019 es2020 esm typedocs coverage gh-pages yarn-error.log traces",
+    "build": "tsc --project tsconfig.build.json --module commonjs --target es2020 --outDir es2020"
+  },
+  "keywords": [],
+  "peerDependencies": {
+    "tslib": "2"
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "@types/node": "^20.9.0",
+    "json-joy": "9.9.1",
+    "editing-traces": "https://github.com/josephg/editing-traces#3caad3dcce0043ef925d588d4788dbcddececbd8",
+    "typescript": "^5.2.2",
+    "ts-loader": "^9.4.3",
+    "ts-node": "^10.9.1",
+    "tslib": "^2.5.0"
+  },
+  "prettier": {
+    "arrowParens": "always",
+    "printWidth": 120,
+    "tabWidth": 2,
+    "useTabs": false,
+    "semi": true,
+    "singleQuote": true,
+    "trailingComma": "all",
+    "bracketSpacing": false
+  }
+}

@@ -3,15 +3,21 @@ import * as fs from 'fs';
 import * as zlib from 'zlib';
 import {Patch} from 'json-joy/es2020/json-crdt-patch';
 import {Model} from 'json-joy/es2020/json-crdt';
+import {rootFolder} from '../root';
+import {defaultSessionId} from '../constants';
 import type {ConcurrentTrace} from './types';
 
 export const traces = [
   <const>'friendsforever',
 ];
 
-export const loadRawTrace = (traceName: string): ConcurrentTrace => {
-  const root = path.resolve(__dirname, '..', '..', '..', '..');
-  const traceFile = path.resolve(root, 'node_modules', 'editing-traces', 'concurrent_traces', `${traceName}.json.gz`);
+export type ConcurrentTraceName = typeof traces[number];
+
+export const filename = (name: ConcurrentTraceName) =>
+  path.resolve(rootFolder, 'node_modules', 'editing-traces', 'concurrent_traces', `${name}.json.gz`);
+
+export const load = (traceName: ConcurrentTraceName): ConcurrentTrace => {
+  const traceFile = filename(traceName);
   const buf = fs.readFileSync(traceFile);
   const text = zlib.gunzipSync(buf).toString();
   const json = JSON.parse(text) as ConcurrentTrace;
@@ -19,7 +25,7 @@ export const loadRawTrace = (traceName: string): ConcurrentTrace => {
 };
 
 export const toBatch = (json: ConcurrentTrace): Patch[] => {
-  const agent0 = Model.withLogicalClock(1000000);
+  const agent0 = Model.withLogicalClock(defaultSessionId);
   agent0.api.root('');
   const agents: Model[] = [agent0];
   const histories: Patch[][] = [[agent0.api.flush()], ...Array.from({length: json.numAgents - 1}, () => [])];
@@ -63,7 +69,7 @@ export const toBatch = (json: ConcurrentTrace): Patch[] => {
     patchExists.add(id);
     batch.push(patch);
   }
-  const model = Model.withLogicalClock(1000000);
+  const model = Model.withLogicalClock(defaultSessionId);
   model.applyBatch(batch);
   if (model.view() !== json.endContent) console.warn('Contents do not match!');
   if ((model.view() as any).length !== json.endContent.length) throw new Error('Lengths do not match!');

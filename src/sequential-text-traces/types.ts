@@ -1,10 +1,3 @@
-export type SequentialTraceName =
-  | 'automerge-paper'
-  | 'friendsforever_flat'
-  | 'rustcode'
-  | 'seph-blog1'
-  | 'sveltecomponent';
-
 export interface SequentialTrace {
   startContent: string;
   endContent: string;

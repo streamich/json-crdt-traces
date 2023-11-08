@@ -31,6 +31,7 @@ export const storeTrace = (options: StoreTraceOptions) => {
 
   const files = {
     patchesTxt: path.join(traceDir, 'patches.txt'),
+    patchesTxtGz: path.join(traceDir, 'patches.txt.gz'),
     patchesBin: path.join(traceDir, 'patches.bin'),
     patchesVerboseJson: path.join(traceDir, 'patches.verbose.json'),
     patchesVerboseJsonGz: path.join(traceDir, 'patches.verbose.json.gz'),
@@ -38,6 +39,7 @@ export const storeTrace = (options: StoreTraceOptions) => {
     patchesCompactJsonGz: path.join(traceDir, 'patches.compact.json.gz'),
     modelTxt: path.join(traceDir, 'model.txt'),
     modelBin: path.join(traceDir, 'model.bin'),
+    modelBinGz: path.join(traceDir, 'model.bin.gz'),
     modelVerboseJson: path.join(traceDir, 'model.verbose.json'),
     modelVerboseJsonGz: path.join(traceDir, 'model.verbose.json.gz'),
     modelCompactJson: path.join(traceDir, 'model.compact.json'),
@@ -47,16 +49,19 @@ export const storeTrace = (options: StoreTraceOptions) => {
   };
 
   const txtData = options.batch.map(patch => patch + '\n\n').join('');
-  fs.writeFileSync(files.patchesTxt, txtData);
+  // fs.writeFileSync(files.patchesTxt, txtData);
+  fs.writeFileSync(files.patchesTxtGz, zlib.gzipSync(txtData, {level: 9}));
 
   const binData = cborEncoder.encode(options.batch.map(patch => patch.toBinary()));
   fs.writeFileSync(files.patchesBin, binData);
 
   const verboseJsonData = jsonEncoder.encode(options.batch.map(patch => encodeVerbosePatch(patch)));
-  fs.writeFileSync(files.patchesVerboseJson, verboseJsonData);
+  // fs.writeFileSync(files.patchesVerboseJson, verboseJsonData);
+  fs.writeFileSync(files.patchesVerboseJsonGz, zlib.gzipSync(verboseJsonData, {level: 9}));
 
   const compactJsonData = jsonEncoder.encode(options.batch.map(patch => encodeCompactPatch(patch)));
   fs.writeFileSync(files.patchesCompactJson, compactJsonData);
+  fs.writeFileSync(files.patchesCompactJsonGz, zlib.gzipSync(compactJsonData, {level: 9}));
 
   const model = Model.withLogicalClock(defaultSessionId);
   model.applyBatch(options.batch);
@@ -67,26 +72,13 @@ export const storeTrace = (options: StoreTraceOptions) => {
 
   fs.writeFileSync(files.modelTxt, model2 + '');
   fs.writeFileSync(files.modelBin, model2.toBinary());
+  fs.writeFileSync(files.modelBinGz, zlib.gzipSync(model2.toBinary(), {level: 9}));
   fs.writeFileSync(files.modelVerboseJson, jsonEncoder.encode(modelVerboseEncoder.encode(model2)));
+  fs.writeFileSync(files.modelVerboseJsonGz, zlib.gzipSync(jsonEncoder.encode(modelVerboseEncoder.encode(model2)), {level: 9}));
   fs.writeFileSync(files.modelCompactJson, jsonEncoder.encode(modelCompactEncoder.encode(model2)));
+  fs.writeFileSync(files.modelCompactJsonGz, zlib.gzipSync(jsonEncoder.encode(modelCompactEncoder.encode(model2)), {level: 9}));
 
   if (options.emitViewText) fs.writeFileSync(files.viewTxt, model2.view() + '');
   const viewJson = JSON.stringify(JSON.parse(Buffer.from(jsonEncoder.encode(model2.view())).toString()), null, 4);
   fs.writeFileSync(files.viewJson, viewJson);
-
-  fs.createReadStream(files.patchesVerboseJson)
-    .pipe(zlib.createGzip({level: 9}))
-    .pipe(fs.createWriteStream(files.patchesVerboseJsonGz));
-
-  fs.createReadStream(files.patchesCompactJson)
-    .pipe(zlib.createGzip({level: 9}))
-    .pipe(fs.createWriteStream(files.patchesCompactJsonGz));
-
-  fs.createReadStream(files.modelVerboseJson)
-    .pipe(zlib.createGzip({level: 9}))
-    .pipe(fs.createWriteStream(files.modelVerboseJsonGz));
-
-  fs.createReadStream(files.modelCompactJson)
-    .pipe(zlib.createGzip({level: 9}))
-    .pipe(fs.createWriteStream(files.modelCompactJsonGz));
 };

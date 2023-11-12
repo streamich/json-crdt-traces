@@ -5,5 +5,6 @@ export interface SequentialTrace {
 }
 
 export interface SequentialTraceTransaction {
+  time: string;
   patches: [position: number, remove: number, insert: string][];
 }

@@ -13,6 +13,8 @@ export const traces = [
   <const>'rustcode',
   <const>'seph-blog1',
   <const>'sveltecomponent',
+  <const>'json-crdt-patch',
+  <const>'json-crdt-blog-post',
 ];
 
 export type SequentialTraceName = typeof traces[number];

@@ -34,7 +34,7 @@
   },
   "devDependencies": {
     "@types/node": "^20.9.0",
-    "json-joy": "9.9.1",
+    "json-joy": "11",
     "editing-traces": "https://github.com/streamich/editing-traces#6494020428530a6e382378b98d1d7e31334e2d7b",
     "typescript": "^5.2.2",
     "ts-loader": "^9.4.3",

@@ -157,10 +157,10 @@ is-number@^7.0.0:
   resolved "https://registry.yarnpkg.com/is-number/-/is-number-7.0.0.tgz#7535345b896734d5f80c4d06c50955527a14f12b"
   integrity sha512-41Cifkg6e8TylSpdtTpeLVMqvSBEVzTttHvERD741+pnZ8ANv0004MRL43QKPDlK9cGvNp6NZWZUBlbGXYxxng==
 
-json-joy@9.9.1:
-  version "9.9.1"
-  resolved "https://registry.yarnpkg.com/json-joy/-/json-joy-9.9.1.tgz#add8f8bdf4f7066894f5ec4817a5a43066a3757f"
-  integrity sha512-/d7th2nbQRBQ/nqTkBe6KjjvDciSwn9UICmndwk3Ed/Bk9AqkTRm4PnLVfXG4DKbT0rEY0nKnwE7NqZlqKE6kg==
+json-joy@11:
+  version "11.0.0"
+  resolved "https://registry.yarnpkg.com/json-joy/-/json-joy-11.0.0.tgz#f9a676a266004e62bd81c661e9a8a1b2ee23406a"
+  integrity sha512-YJ5GJX1u4+vGrSluoFnCm54ljswub6fSSCsdDKJaXw+TqJTwu0O9uS5ZvGBg10k+nM5/sQdgN6/y5uP2RfA4nw==
   dependencies:
     arg "^5.0.2"
     hyperdyperid "^1.2.0"

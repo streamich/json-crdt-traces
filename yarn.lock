@@ -118,9 +118,9 @@ diff@^4.0.1:
   resolved "https://registry.yarnpkg.com/diff/-/diff-4.0.2.tgz#60f3aecb89d5fae520c11aa19efc2bb982aade7d"
   integrity sha512-58lmxKSA4BNyLz+HHMUzlOEpg09FV+ev6ZMe3vJihgdxzgcwZ8VoEEPmALCZG9LmqfVoNMMKpttIYTVG6uDY7A==
 
-"editing-traces@https://github.com/streamich/editing-traces#6494020428530a6e382378b98d1d7e31334e2d7b":
+"editing-traces@https://github.com/streamich/editing-traces#c541ada1e81a5814b207e768f85d2d5f7437c0d8":
   version "0.0.0"
-  resolved "https://github.com/streamich/editing-traces#6494020428530a6e382378b98d1d7e31334e2d7b"
+  resolved "https://github.com/streamich/editing-traces#c541ada1e81a5814b207e768f85d2d5f7437c0d8"
 
 enhanced-resolve@^5.0.0:
   version "5.15.0"

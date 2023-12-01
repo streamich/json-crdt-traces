@@ -9,6 +9,7 @@ import type {ConcurrentTrace} from './types';
 
 export const traces = [
   <const>'friendsforever',
+  <const>'clownschool',
 ];
 
 export type ConcurrentTraceName = typeof traces[number];

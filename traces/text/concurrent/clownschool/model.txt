@@ -1,0 +1,2236 @@
+model
+├─ root 0.0
+│  └─ str ..0000.1 { "Clowny Wowny\n============\n\nWhen " … }
+│     └─ StrChunk ..0000.7867!1 len:21148 { "\n" }
+│        ← StrChunk ..0000.4765!2 len:10876 { "\n\n" }
+│          ← StrChunk ..0002.2747!1 len:5744 { "u" }
+│            ← StrChunk ..0002.1145!1 len:2917 { " " }
+│              ← StrChunk ..0002.935!1 len:949 { " " }
+│                ← StrChunk ..0002.495!8 len:803 { "when we " }
+│                  ← StrChunk ..0000.285!5 len:525 { "stuff" }
+│                    ← StrChunk ..0002.53!61 len:251 { "see people again, they always as" … }
+│                      ← StrChunk ..0000.135!12 len:34 { "============" }
+│                        ← StrChunk ..0000.119!2 len:13 [2]
+│                          ← StrChunk ..0000.123!5 len:12 { "Wowny" }
+│                            ← StrChunk ..0000.112!7 len:7 { "Clowny " }
+│                          → StrChunk ..0002.43!1 len:1 { "\n" }
+│                        → StrChunk ..0000.103!2 len:9 { "\n\n" }
+│                          ← StrChunk ..0000.131!1 len:0 [1]
+│                          → StrChunk ..0002.44!7 len:7 { "When I " }
+│                      → StrChunk ..0002.255!1 len:156 [1]
+│                        ← StrChunk ..0002.127!89 len:128 { "his is a very hard question to a" … }
+│                          ← StrChunk ..0002.123!1 len:4 { "T" }
+│                            ← StrChunk ..0002.118!3 len:3 { "\"\n\n" }
+│                          → StrChunk ..0000.216!35 len:35 { "It was really hard, honestly. 4 " … }
+│                        → StrChunk ..0000.257!7 len:28 { "Paris. " }
+│                          ← StrChunk ..0000.251!4 len:4 { "ks. " }
+│                          → StrChunk ..0000.266!17 len:17 { "4 hours a day of " }
+│                    → StrChunk ..0002.346!3 len:269 { "sch" }
+│                      ← StrChunk ..0000.319!38 len:145 { " I'm procrastinating talking abo" … }
+│                        ← StrChunk ..0000.310!2 len:6 { "Ug" }
+│                          ← StrChunk ..0000.305!1 len:2 { " " }
+│                            ← StrChunk ..0000.296!1 len:1 { "." }
+│                          → StrChunk ..0000.314!2 len:2 { "h." }
+│                        → StrChunk ..0002.264!6 len:101 { "\n\nI ju" }
+│                          ← StrChunk ..0000.361!22 len:22 { " It was ... harrowing." }
+│                          → StrChunk ..0002.271!73 len:73 { "st had the thought... we are the" … }
+│                      → StrChunk ..0002.373!4 len:121 { "neve" }
+│                        ← StrChunk ..0002.357!9 len:14 { ". I never" }
+│                          ← StrChunk ..0002.353!3 len:3 { "ool" }
+│                          → StrChunk ..0002.370!2 len:2 { ", " }
+│                        → StrChunk ..0002.426!45 len:103 { "still don't think I'm *that* kin" … }
+│                          ← StrChunk ..0002.378!46 len:46 { "r thought I would be *that* kind" … }
+│                          → StrChunk ..0002.478!12 len:12 { "Like, damn, " }
+│                  → StrChunk ..0002.783!5 len:270 { " you " }
+│                    ← StrChunk ..0002.630!25 len:205 { "'t remember. I don't even" }
+│                      ← StrChunk ..0002.546!27 len:100 { "ed to my boyfriend and said" }
+│                        ← StrChunk ..0002.520!19 len:30 { "lfway through it I " }
+│                          ← StrChunk ..0002.513!4 len:7 { "e ha" }
+│                            ← StrChunk ..0002.507!3 len:3 { "wer" }
+│                          → StrChunk ..0002.540!4 len:4 { "turn" }
+│                        → StrChunk ..0002.585!29 len:43 { "wait why are we even here? I " }
+│                          ← StrChunk ..0002.582!2 len:2 { " \"" }
+│                          → StrChunk ..0002.616!12 len:12 { "honestly don" }
+│                      → StrChunk ..0002.755!5 len:80 { "d to " }
+│                        ← StrChunk ..0002.738!4 len:65 { "ard " }
+│                          ← StrChunk ..0002.732!4 len:58 { "s (h" }
+│                            ← StrChunk ..0002.656!54 len:54 { " like clowns.\" And truly, whenev" … }
+│                          → StrChunk ..0002.751!3 len:3 { "wor" }
+│                        → StrChunk ..0002.770!4 len:10 { "ell " }
+│                          ← StrChunk ..0002.766!2 len:2 { "sp" }
+│                          → StrChunk ..0002.778!4 len:4 { "when" }
+│                    → StrChunk ..0002.926!3 len:60 { "was" }
+│                      ← StrChunk ..0002.829!3 len:48 { "TSD" }
+│                        ← StrChunk ..0002.808!15 len:30 { "ing clown-based" }
+│                          ← StrChunk ..0002.802!4 len:13 { "ienc" }
+│                            ← StrChunk ..0002.792!9 len:9 { "are exper" }
+│                          → StrChunk ..0002.824!2 len:2 { " P" }
+│                        → StrChunk ..0002.888!9 len:15 { "real-time" }
+│                          ← StrChunk ..0002.881!4 len:4 { " in " }
+│                          → StrChunk ..0002.840!2 len:2 { ") " }
+│                      → StrChunk ..0002.929!1 len:9 { " " }
+│                        ← StrChunk ..0002.908!1 len:3 { " " }
+│                          ← StrChunk ..0002.914!2 len:0 [2]
+│                          → StrChunk ..0002.930!2 len:2 { "on" }
+│                        → StrChunk ..0002.932!1 len:5 { " " }
+│                          ← StrChunk ..0002.933!2 len:2 { "TV" }
+│                          → StrChunk ..0002.936!2 len:2 { "or" }
+│                → StrChunk ..0002.1042!8 len:145 { "raveling" }
+│                  ← StrChunk ..0002.982!1 len:73 { " " }
+│                    ← StrChunk ..0002.965!2 len:48 { "it" }
+│                      ← StrChunk ..0002.954!7 len:26 { "special" }
+│                        ← StrChunk ..0002.944!9 len:15 { "aeroplane" }
+│                          ← StrChunk ..0002.938!1 len:5 { " " }
+│                            ← StrChunk ..0002.939!4 len:4 { "some" }
+│                          → StrChunk ..0002.943!1 len:1 { " " }
+│                        → StrChunk ..0002.962!2 len:4 { "as" }
+│                          ← StrChunk ..0002.953!1 len:1 { " " }
+│                          → StrChunk ..0002.961!1 len:1 { " " }
+│                      → StrChunk ..0002.974!1 len:20 { " " }
+│                        ← StrChunk ..0002.967!1 len:9 { " " }
+│                          ← StrChunk ..0002.968!6 len:7 { "lands," }
+│                            ← StrChunk ..0002.964!1 len:1 { " " }
+│                          → StrChunk ..0002.975!1 len:1 { "I" }
+│                        → StrChunk ..0002.976!1 len:10 { " " }
+│                          ← StrChunk ..0002.977!5 len:5 { "would" }
+│                          → StrChunk ..0002.983!4 len:4 { "roll" }
+│                    → StrChunk ..0002.1033!1 len:24 [1]
+│                      ← StrChunk ..0002.996!3 len:18 { "and" }
+│                        ← StrChunk ..0002.991!4 len:8 { "eyes" }
+│                          ← StrChunk ..0002.987!1 len:3 { " " }
+│                            ← StrChunk ..0002.988!2 len:2 { "my" }
+│                          → StrChunk ..0002.990!1 len:1 { " " }
+│                        → StrChunk ..0002.1022!2 len:7 { "su" }
+│                          ← StrChunk ..0002.995!1 len:1 { " " }
+│                          → StrChunk ..0002.1028!4 len:4 { "bjec" }
+│                      → StrChunk ..0002.999!1 len:6 { " " }
+│                        ← StrChunk ..0002.1024!1 len:1 [1]
+│                          ← StrChunk ..0002.1034!1 len:1 { "t" }
+│                          → StrChunk ..0002.1003!1 len:0 [1]
+│                        → StrChunk ..0002.1035!1 len:4 { " " }
+│                          ← StrChunk ..0002.1036!2 len:2 { "my" }
+│                          → StrChunk ..0002.1039!1 len:1 { "t" }
+│                  → StrChunk ..0002.1108!3 len:64 { "fee" }
+│                    ← StrChunk ..0002.1071!1 len:28 { " " }
+│                      ← StrChunk ..0002.1066!1 len:11 { "e" }
+│                        ← StrChunk ..0002.1051!4 len:6 { "part" }
+│                          ← StrChunk ..0002.1038!1 len:1 { " " }
+│                            ← StrChunk ..0002.1040!1 len:0 [1]
+│                          → StrChunk ..0002.1060!1 len:1 { "n" }
+│                        → StrChunk ..0002.1050!1 len:4 { " " }
+│                          ← StrChunk ..0002.1070!1 len:1 { "r" }
+│                          → StrChunk ..0002.1072!2 len:2 { "to" }
+│                      → StrChunk ..0002.1076!1 len:16 { " " }
+│                        ← StrChunk ..0002.1074!1 len:10 { " " }
+│                          ← StrChunk ..0002.1075!1 len:1 { "a" }
+│                          → StrChunk ..0002.1077!8 len:8 { "realtime" }
+│                        → StrChunk ..0002.1099!3 len:5 { "ive" }
+│                          ← StrChunk ..0002.1094!1 len:1 { "l" }
+│                          → StrChunk ..0002.1085!1 len:1 { " " }
+│                    → StrChunk ..0002.1125!1 len:33 { " " }
+│                      ← StrChunk ..0002.1115!1 len:15 { " " }
+│                        ← StrChunk ..0002.1116!1 len:4 { "o" }
+│                          ← StrChunk ..0002.1107!1 len:2 { " " }
+│                            ← StrChunk ..0002.1114!1 len:1 { "d" }
+│                          → StrChunk ..0002.1120!1 len:1 { "f" }
+│                        → StrChunk ..0002.1121!1 len:10 { " " }
+│                          ← StrChunk ..0002.1122!3 len:3 { "how" }
+│                          → StrChunk ..0002.1126!6 len:6 { "cringe" }
+│                      → StrChunk ..0002.1135!1 len:17 { " " }
+│                        ← StrChunk ..0002.1132!1 len:6 { " " }
+│                          ← StrChunk ..0002.1133!2 len:2 { "it" }
+│                          → StrChunk ..0002.1136!3 len:3 { "is." }
+│                        → StrChunk ..0002.1139!1 len:10 { " " }
+│                          ← StrChunk ..0002.1140!5 len:5 { "\n\nAnd" }
+│                          → StrChunk ..0002.1146!4 len:4 { "yet," }
+│              → StrChunk ..0002.1894!2 len:1967 { "\n\n" }
+│                ← StrChunk ..0000.688!2 len:1242 { "\n\n" }
+│                  ← StrChunk ..0000.1167!5 len:303 { "Yeah." }
+│                    ← StrChunk ..0002.916!1 len:16 [1]
+│                      ← StrChunk ..0002.1159!5 len:14 { "were." }
+│                        ← StrChunk ..0002.1156!2 len:8 { "we" }
+│                          ← StrChunk ..0002.1150!1 len:5 { " " }
+│                            ← StrChunk ..0002.1151!4 len:4 { "here" }
+│                          → StrChunk ..0002.1155!1 len:1 { " " }
+│                        → StrChunk ..0002.917!1 len:1 [1]
+│                          ← StrChunk ..0002.1158!1 len:1 { " " }
+│                          → StrChunk ..0002.919!1 len:0 [1]
+│                      → StrChunk ..0002.710!3 len:2 [3]
+│                        ← StrChunk ..0002.719!2 len:0 [2]
+│                          ← StrChunk ..0002.745!1 len:0 [1]
+│                            ← StrChunk ..0002.920!1 len:0 [1]
+│                          → StrChunk ..0002.724!1 len:0 [1]
+│                        → StrChunk ..0002.614!1 len:2 [1]
+│                          ← StrChunk ..0002.628!1 len:0 [1]
+│                          → StrChunk ..0000.471!2 len:2 { "\n\n" }
+│                    → StrChunk ..0000.1035!1 len:282 [1]
+│                      ← StrChunk ..0000.1056!34 len:139 { "returning servicemen. Except its" … }
+│                        ← StrChunk ..0000.1038!1 len:62 { "," }
+│                          ← StrChunk ..0000.986!49 len:51 { "^--- I like the term \"CLown base" … }
+│                            ← StrChunk ..0000.1165!2 len:2 { "\n\n" }
+│                          → StrChunk ..0000.1041!10 len:10 { " PTSD for " }
+│                        → StrChunk ..0000.1090!1 len:43 [1]
+│                          ← StrChunk ..0000.1092!43 len:43 { "TSD for people who've been to cl" … }
+│                          → StrChunk ..0000.1051!1 len:0 [1]
+│                      → StrChunk ..0000.590!2 len:143 { "No" }
+│                        ← StrChunk ..0000.473!78 len:113 { "Yeah. Halfway through we turned " … }
+│                          ← StrChunk ..0000.976!2 len:2 { "\n\n" }
+│                          → StrChunk ..0000.555!33 len:33 { " here? Do we even like clowns?\"." … }
+│                        → StrChunk ..0000.632!2 len:28 { "\n\n" }
+│                          ← StrChunk ..0000.593!1 len:1 { "." }
+│                          → StrChunk ..0000.636!25 len:25 { "I don't know why we went." }
+│                  → StrChunk ..0002.1561!8 len:937 { "nds (rea" }
+│                    ← StrChunk ..0000.1252!6 len:651 { "don't " }
+│                      ← StrChunk ..0000.902!17 len:280 { ", totally, right." }
+│                        ← StrChunk ..0000.733!159 len:195 { " Or fun in some way. We were kin" … }
+│                          ← StrChunk ..0000.696!31 len:34 { "hink I expected it to be funny." }
+│                            ← StrChunk ..0000.691!3 len:3 { "I t" }
+│                          → StrChunk ..0000.898!2 len:2 { "of" }
+│                        → StrChunk ..0000.1202!6 len:68 { "Lets t" }
+│                          ← StrChunk ..0000.1172!28 len:28 { "\n\nSo...\n\nIt was pretty bad. " }
+│                          → StrChunk ..0000.1214!34 len:34 { "alk about that first I guess. Bu" … }
+│                      → StrChunk ..0000.1523!1 len:365 [1]
+│                        ← StrChunk ..0000.1527!2 len:168 { "'m" }
+│                          ← StrChunk ..0000.1521!2 len:91 { " I" }
+│                            ← StrChunk ..0000.1266!89 len:89 { "get the wrong idea. I don't *reg" … }
+│                          → StrChunk ..0000.1533!75 len:75 { " glad I went. But I'm not sure I" … }
+│                        → StrChunk ..0002.1360!46 len:197 { "Thinking back, I really want to " … }
+│                          ← StrChunk ..0000.1355!2 len:2 { "\n\n" }
+│                          → StrChunk ..0002.1408!149 len:149 { "/we decided to go and a lot of i" … }
+│                    → StrChunk ..0002.1772!1 len:278 [1]
+│                      ← StrChunk ..0002.1592!125 len:274 { "der than saying that going to Fr" … }
+│                        ← StrChunk ..0002.1582!2 len:9 { "? " }
+│                          ← StrChunk ..0002.1576!2 len:3 { "ly" }
+│                            ← StrChunk ..0002.1572!1 len:1 { "l" }
+│                          → StrChunk ..0002.1587!4 len:4 { "weir" }
+│                        → StrChunk ..0002.1754!18 len:140 { "6 week course in c" }
+│                          ← StrChunk ..0002.1718!2 len:2 { "s " }
+│                          → StrChunk ..0002.1774!120 len:120 { "lowning locally and it had reall" … }
+│                      → StrChunk ..0002.1406!1 len:4 [1]
+│                        ← StrChunk ..0002.1736!1 len:0 [1]
+│                          ← StrChunk ..0002.1731!3 len:0 [3]
+│                          → StrChunk ..0002.1557!2 len:0 [2]
+│                        → StrChunk ..0002.1358!1 len:4 { "\n" }
+│                          ← StrChunk ..0000.1357!1 len:1 { "\n" }
+│                          → StrChunk ..0002.1896!2 len:2 { "NO" }
+│                → StrChunk ..0000.2139!28 len:723 { "Money back was pretty funny " }
+│                  ← StrChunk ..0002.2103!6 len:310 { "NG \"MO" }
+│                    ← StrChunk ..0000.2012!89 len:210 { " Stop being so traditional. I do" … }
+│                      ← StrChunk ..0000.1959!1 len:84 [1]
+│                        ← StrChunk ..0002.1898!2 len:43 { "\n\n" }
+│                          ← StrChunk ..0002.1900!7 len:8 [7]
+│                            ← StrChunk ..0002.1914!8 len:8 { "IT'S NOT" }
+│                          → StrChunk ..0000.1924!33 len:33 { "SO SERIOUS> CLOWNING IS SRS BSNS" … }
+│                        → StrChunk ..0002.1922!2 len:41 { "\n\n" }
+│                          ← StrChunk ..0000.1957!1 len:0 [1]
+│                          → StrChunk ..0000.1963!39 len:39 { "GET BETTER. Why are you still on" … }
+│                      → StrChunk ..0002.2070!2 len:37 { "PE" }
+│                        ← StrChunk ..0000.2002!5 len:24 [5]
+│                          ← StrChunk ..0000.2101!3 len:22 [3]
+│                            ← StrChunk ..0000.2107!22 len:22 { "inutes coming up with." }
+│                          → StrChunk ..0000.1961!2 len:2 { "\n\n" }
+│                        → StrChunk ..0002.2083!4 len:11 { "CHAN" }
+│                          ← StrChunk ..0002.2076!5 len:5 { "OPLE " }
+│                          → StrChunk ..0002.2100!2 len:2 { "TI" }
+│                    → StrChunk ..0002.2217!4 len:94 { "ulne" }
+│                      ← StrChunk ..0002.2147!12 len:73 { "just as you " }
+│                        ← StrChunk ..0002.2124!4 len:10 { "BACK" }
+│                          ← StrChunk ..0002.2117!3 len:4 { "EY " }
+│                            ← StrChunk ..0002.2111!1 len:1 { "N" }
+│                          → StrChunk ..0002.2129!2 len:2 { "\" " }
+│                        → StrChunk ..0002.2169!35 len:51 { "arning how to try to drop your w" … }
+│                          ← StrChunk ..0002.2161!6 len:6 { "are le" }
+│                          → StrChunk ..0002.2206!10 len:10 { "s and be v" }
+│                      → StrChunk ..0002.2131!8 len:17 [8]
+│                        ← StrChunk ..0002.2229!10 len:15 { " on stage." }
+│                          ← StrChunk ..0002.2223!5 len:5 { "rable" }
+│                          → StrChunk ..0002.2159!1 len:0 [1]
+│                        → StrChunk ..0002.2009!1 len:2 { "\n" }
+│                          ← StrChunk ..0002.2091!2 len:0 [2]
+│                          → StrChunk ..0002.2024!1 len:1 { "\n" }
+│                  → StrChunk ..0002.2404!8 len:385 { "atisfyin" }
+│                    ← StrChunk ..0000.2136!1 len:118 { "\n" }
+│                      ← StrChunk ..0000.2239!16 len:71 { "in regular life." }
+│                        ← StrChunk ..0000.2212!17 len:54 { "t a lot of people" }
+│                          ← StrChunk ..0000.2183!25 len:36 { "ant to shout money back a" }
+│                            ← StrChunk ..0000.2171!11 len:11 { "though. I w" }
+│                          → StrChunk ..0000.2237!1 len:1 { " " }
+│                        → StrChunk ..0000.2167!2 len:1 [2]
+│                          ← StrChunk ..0000.2208!2 len:0 [2]
+│                          → StrChunk ..0000.2132!1 len:1 { "\n" }
+│                      → StrChunk ..0002.2352!5 len:46 { "It's " }
+│                        ← StrChunk ..0002.2316!1 len:32 { "I" }
+│                          ← StrChunk ..0002.2302!3 len:3 { "-- " }
+│                          → StrChunk ..0002.2323!28 len:28 { "t's weird because I do too. " }
+│                        → StrChunk ..0002.2374!4 len:9 { "dly " }
+│                          ← StrChunk ..0002.2366!4 len:4 { "weir" }
+│                          → StrChunk ..0002.2399!1 len:1 { "s" }
+│                    → StrChunk ..0002.2868!4 len:259 { "Or d" }
+│                      ← StrChunk ..0002.3562!10 len:221 { "o be heard" }
+│                        ← StrChunk ..0002.2511!72 len:174 { "have some kind of influence on h" … }
+│                          ← StrChunk ..0002.3526!3 len:101 { "to " }
+│                            ← StrChunk ..0002.2413!98 len:98 { "g to be able to point to the sta" … }
+│                          → StrChunk ..0002.3555!1 len:1 { "T" }
+│                        → StrChunk ..0002.3578!16 len:37 { "s the audience. " }
+│                          ← StrChunk ..0002.3574!3 len:3 { ", a" }
+│                          → StrChunk ..0002.2583!18 len:18 { "Do you want more? " }
+│                      → StrChunk ..0002.2631!4 len:34 { "in s" }
+│                        ← StrChunk ..0002.2602!20 len:21 { "o you want it to end" }
+│                          ← StrChunk ..0002.2601!1 len:0 [1]
+│                          → StrChunk ..0002.2624!1 len:1 { " " }
+│                        → StrChunk ..0002.2644!3 len:9 { "qua" }
+│                          ← StrChunk ..0002.2639!4 len:4 { "ome " }
+│                          → StrChunk ..0002.2649!2 len:2 { "nt" }
+│            → StrChunk ..0000.3399!49 len:2826 { "sential and vital about knowing " … }
+│              ← StrChunk ..0001.15759!3 len:942 { "are" }
+│                ← StrChunk ..0002.2999!1 len:551 { "s" }
+│                  ← StrChunk ..0002.2817!1 len:115 { " " }
+│                    ← StrChunk ..0002.2779!3 len:25 [3]
+│                      ← StrChunk ..0002.2707!2 len:12 { "y " }
+│                        ← StrChunk ..0002.2653!1 len:2 { "m" }
+│                          ← StrChunk ..0002.2652!1 len:0 [1]
+│                            ← StrChunk ..0002.2745!1 len:0 [1]
+│                          → StrChunk ..0002.2697!1 len:1 { "l" }
+│                        → StrChunk ..0002.2772!3 len:8 { "oth" }
+│                          ← StrChunk ..0002.2766!3 len:3 { "(an" }
+│                          → StrChunk ..0002.2802!2 len:2 { "er" }
+│                      → StrChunk ..0002.2804!1 len:13 { " " }
+│                        ← StrChunk ..0002.2806!5 len:6 { "tough" }
+│                          ← StrChunk ..0002.2763!1 len:1 { " " }
+│                            ← StrChunk ..0002.2764!1 len:0 [1]
+│                          → StrChunk ..0002.2811!1 len:0 [1]
+│                        → StrChunk ..0002.2813!1 len:6 { " " }
+│                          ← StrChunk ..0002.2814!3 len:3 { "one" }
+│                          → StrChunk ..0002.2818!2 len:2 { "to" }
+│                    → StrChunk ..0002.2858!1 len:89 { " " }
+│                      ← StrChunk ..0002.2842!1 len:25 { " " }
+│                        ← StrChunk ..0002.2820!1 len:12 { " " }
+│                          ← StrChunk ..0002.2841!1 len:6 { ")" }
+│                            ← StrChunk ..0002.2821!5 len:5 { "spell" }
+│                          → StrChunk ..0002.2843!5 len:5 { "small" }
+│                        → StrChunk ..0002.2848!1 len:12 { " " }
+│                          ← StrChunk ..0002.2849!9 len:9 { "increment" }
+│                          → StrChunk ..0002.2859!2 len:2 { "of" }
+│                      → StrChunk ..0002.2932!28 len:63 { "times in 2023 it feels like " }
+│                        ← StrChunk ..0002.2920!1 len:10 { " " }
+│                          ← StrChunk ..0002.2862!5 len:5 { "time?" }
+│                          → StrChunk ..0002.2925!4 len:4 { "Some" }
+│                        → StrChunk ..0002.2970!5 len:25 { "e's t" }
+│                          ← StrChunk ..0002.2965!4 len:4 { "ther" }
+│                          → StrChunk ..0002.2976!16 len:16 { "his pressure to " }
+│                  → StrChunk ..0001.15555!4 len:435 { " and" }
+│                    ← StrChunk ..0002.3170!4 len:324 { "riti" }
+│                      ← StrChunk ..0002.3132!4 len:139 { "ever" }
+│                        ← StrChunk ..0002.3077!2 len:114 { "al" }
+│                          ← StrChunk ..0002.3070!2 len:64 { ", " }
+│                            ← StrChunk ..0002.3002!62 len:62 { "ay that everyone is great, all o" … }
+│                          → StrChunk ..0002.3083!48 len:48 { "l of the time. It also makes us " … }
+│                        → StrChunk ..0002.3155!5 len:21 { "ble t" }
+│                          ← StrChunk ..0002.3145!8 len:8 { " being a" }
+│                          → StrChunk ..0002.3161!8 len:8 { "o take c" }
+│                      → StrChunk ..0002.3208!92 len:181 { "good with criticism - in theory " … }
+│                        ← StrChunk ..0002.3199!8 len:16 { "am 100% " }
+│                          ← StrChunk ..0002.3193!2 len:8 { "I " }
+│                            ← StrChunk ..0002.3175!6 len:6 { "cism. " }
+│                          → StrChunk ..0002.3207!1 len:0 [1]
+│                        → StrChunk ..0002.3395!3 len:73 { "pac" }
+│                          ← StrChunk ..0002.3314!69 len:69 { "the words can haunt you at 2am. " … }
+│                          → StrChunk ..0002.3411!1 len:1 { "t" }
+│                    → StrChunk ..0001.15664!6 len:107 { "ctual " }
+│                      ← StrChunk ..0001.15619!8 len:48 { "ent to h" }
+│                        ← StrChunk ..0001.15576!11 len:32 { " genuinely " }
+│                          ← StrChunk ..0001.15571!4 len:10 { " you" }
+│                            ← StrChunk ..0001.15562!6 len:6 { " makes" }
+│                          → StrChunk ..0001.15607!11 len:11 { "more resili" }
+│                        → StrChunk ..0001.15636!2 len:8 { "g " }
+│                          ← StrChunk ..0001.15628!5 len:5 { "earin" }
+│                          → StrChunk ..0001.15658!1 len:1 { "a" }
+│                      → StrChunk ..0001.15693!17 len:53 { "ism in the future" }
+│                        ← StrChunk ..0001.15682!2 len:6 { "ti" }
+│                          ← StrChunk ..0001.15678!3 len:3 { "cri" }
+│                          → StrChunk ..0001.15688!1 len:1 { "c" }
+│                        → StrChunk ..0001.15710!28 len:30 { " And real words of criticism" }
+│                          ← StrChunk ..0002.3412!1 len:1 { "." }
+│                          → StrChunk ..0001.15751!1 len:1 { " " }
+│                → StrChunk ..0001.16217!1 len:388 { "i" }
+│                  ← StrChunk ..0001.15950!7 len:285 { "'ll be " }
+│                    ← StrChunk ..0001.15828!1 len:134 { " " }
+│                      ← StrChunk ..0001.15798!7 len:37 { " feedba" }
+│                        ← StrChunk ..0001.15778!4 len:19 { "nval" }
+│                          ← StrChunk ..0001.15773!4 len:10 { "of i" }
+│                            ← StrChunk ..0001.15765!6 len:6 { " kind " }
+│                          → StrChunk ..0001.15783!5 len:5 { "uable" }
+│                        → StrChunk ..0001.15815!4 len:11 { "hat " }
+│                          ← StrChunk ..0001.15808!4 len:4 { "ck t" }
+│                          → StrChunk ..0001.15821!3 len:3 { "can" }
+│                      → StrChunk ..0001.15882!22 len:96 { " you're not just meand" }
+│                        ← StrChunk ..0001.15873!1 len:38 { " " }
+│                          ← StrChunk ..0001.15839!33 len:35 { "terally pave the way to improvin" … }
+│                            ← StrChunk ..0001.15833!2 len:2 { "li" }
+│                          → StrChunk ..0001.15877!2 len:2 { "so" }
+│                        → StrChunk ..0001.15936!5 len:36 { "ping " }
+│                          ← StrChunk ..0001.15907!28 len:28 { "ering all over the place, ho" }
+│                          → StrChunk ..0001.15944!3 len:3 { "you" }
+│                    → StrChunk ..0001.16096!3 len:144 { "tly" }
+│                      ← StrChunk ..0001.16063!3 len:80 { "ve " }
+│                        ← StrChunk ..0001.16029!25 len:60 { "phins only respond to ppo" }
+│                          ← StrChunk ..0001.16007!12 len:31 { "supreme. Dol" }
+│                            ← StrChunk ..0001.15960!19 len:19 { "praised into being " }
+│                          → StrChunk ..0001.16057!4 len:4 { "siti" }
+│                        → StrChunk ..0001.16075!7 len:17 { "ng (app" }
+│                          ← StrChunk ..0001.16067!6 len:6 { "traini" }
+│                          → StrChunk ..0001.16091!4 len:4 { "aren" }
+│                      → StrChunk ..0001.16127!1 len:61 { "i" }
+│                        ← StrChunk ..0001.16108!3 len:9 { "ayb" }
+│                          ← StrChunk ..0001.16101!4 len:4 { "). M" }
+│                          → StrChunk ..0001.16113!2 len:2 { "e " }
+│                        → StrChunk ..0001.16144!5 len:51 { " can " }
+│                          ← StrChunk ..0001.16132!11 len:11 { "t means you" }
+│                          → StrChunk ..0001.16165!35 len:35 { "do tricks, but you don't have th" … }
+│                  → StrChunk ..0002.2960!1 len:102 [1]
+│                    ← StrChunk ..0001.16218!1 len:75 [1]
+│                      ← StrChunk ..0001.16291!9 len:75 { "mething* " }
+│                        ← StrChunk ..0001.16282!1 len:22 { "*" }
+│                          ← StrChunk ..0001.16259!11 len:19 { "reserve of " }
+│                            ← StrChunk ..0001.16240!8 len:8 { "nspired " }
+│                          → StrChunk ..0001.16286!2 len:2 { "so" }
+│                        → StrChunk ..0001.16322!3 len:44 { "f y" }
+│                          ← StrChunk ..0001.16318!1 len:1 { "i" }
+│                          → StrChunk ..0001.16328!40 len:40 { "ou're not willing to stare into " … }
+│                      → StrChunk ..0002.3398!3 len:0 [3]
+│                        ← StrChunk ..0001.16073!1 len:0 [1]
+│                          ← StrChunk ..0001.16223!5 len:0 [5]
+│                          → StrChunk ..0001.16019!5 len:0 [5]
+│                        → StrChunk ..0002.3300!7 len:0 [7]
+│                          ← StrChunk ..0002.3383!1 len:0 [1]
+│                          → StrChunk ..0002.3064!3 len:0 [3]
+│                    → StrChunk ..0002.3439!3 len:27 [3]
+│                      ← StrChunk ..0002.2288!1 len:2 { "\n" }
+│                        ← StrChunk ..0002.2782!1 len:0 [1]
+│                          ← StrChunk ..0002.2826!1 len:0 [1]
+│                            ← StrChunk ..0002.2861!1 len:0 [1]
+│                          → StrChunk ..0002.2698!1 len:0 [1]
+│                        → StrChunk ..0002.3421!9 len:1 [9]
+│                          ← StrChunk ..0002.2724!1 len:1 { "\n" }
+│                          → StrChunk ..0002.3435!3 len:0 [3]
+│                      → StrChunk ..0002.3463!1 len:25 [1]
+│                        ← StrChunk ..0002.3449!7 len:0 [7]
+│                          ← StrChunk ..0002.3445!2 len:0 [2]
+│                          → StrChunk ..0002.3457!4 len:0 [4]
+│                        → StrChunk ..0002.3413!2 len:25 [2]
+│                          ← StrChunk ..0002.3468!3 len:0 [3]
+│                          → StrChunk ..0000.3370!25 len:25 { "Yeah there's something es" }
+│              → StrChunk ..0000.3975!2 len:1835 { "ng" }
+│                ← StrChunk ..0000.2657!30 len:958 { "ssential to the experience of " }
+│                  ← StrChunk ..0000.3810!12 len:488 { "ed about it." }
+│                    ← StrChunk ..0000.3771!4 len:332 { "ther" }
+│                      ← StrChunk ..0000.3587!4 len:300 { "fail" }
+│                        ← StrChunk ..0000.3511!33 len:127 { "of everyone and they'll tell you" … }
+│                          ← StrChunk ..0000.3471!36 len:54 { "that you can make mistakes in fr" … }
+│                            ← StrChunk ..0000.3450!18 len:18 { "ed to be shit and " }
+│                          → StrChunk ..0000.3546!40 len:40 { "you're shit and we can move on. " … }
+│                        → StrChunk ..0002.3864!1 len:169 { "'" }
+│                          ← StrChunk ..0000.3594!20 len:20 { "ure is scary when it" }
+│                          → StrChunk ..0000.3614!148 len:148 { "s in the dark, and we don't know" … }
+│                      → StrChunk ..0000.3803!6 len:28 { "defang" }
+│                        ← StrChunk ..0000.3797!6 len:22 { "at is " }
+│                          ← StrChunk ..0002.3799!2 len:16 [2]
+│                            ← StrChunk ..0000.3781!16 len:16 { "e's something th" }
+│                          → StrChunk ..0002.3825!2 len:0 [2]
+│                        → StrChunk ..0002.3813!1 len:0 [1]
+│                          ← StrChunk ..0002.3811!1 len:0 [1]
+│                          → StrChunk ..0002.3820!1 len:0 [1]
+│                    → StrChunk ..0001.15473!2 len:144 { "\n\n" }
+│                      ← StrChunk ..0000.3448!1 len:62 [1]
+│                        ← StrChunk ..0000.3544!1 len:0 [1]
+│                          ← StrChunk ..0000.3762!8 len:0 [8]
+│                            ← StrChunk ..0000.3775!3 len:0 [3]
+│                          → StrChunk ..0000.3507!2 len:0 [2]
+│                        → StrChunk ..0000.3368!2 len:62 { "\n\n" }
+│                          ← StrChunk ..0000.3395!2 len:0 [2]
+│                          → StrChunk ..0001.15475!60 len:60 { "Defanged is a great word. Very a" … }
+│                      → StrChunk ..0002.2295!1 len:80 [1]
+│                        ← StrChunk ..0002.3829!2 len:34 { "\n\n" }
+│                          ← StrChunk ..0002.3831!32 len:32 { "So yeah, back to clown school..." }
+│                          → StrChunk ..0002.2684!6 len:0 [6]
+│                        → StrChunk ..0002.3863!1 len:46 { "'" }
+│                          ← StrChunk ..0000.2604!2 len:2 { "It" }
+│                          → StrChunk ..0000.2606!43 len:43 { "s not just that. There's somethi" … }
+│                  → StrChunk ..0000.2981!1 len:440 [1]
+│                    ← StrChunk ..0000.3031!52 len:393 { "didn't actually have all the ans" … }
+│                      ← StrChunk ..0000.2867!41 len:250 { "we bravely stand up in front of " … }
+│                        ← StrChunk ..0000.2765!42 len:121 { "its important that we know. Ther" … }
+│                          ← StrChunk ..0000.2705!35 len:48 { "things are shit sometimes and th" … }
+│                            ← StrChunk ..0000.2690!13 len:13 { "knowing that " }
+│                          → StrChunk ..0000.2809!31 len:31 { "osophy underneath it all where " }
+│                        → StrChunk ..0000.2944!23 len:88 { "everyone gets to watch " }
+│                          ← StrChunk ..0000.2913!29 len:29 { "with a dream in our eyes and " }
+│                          → StrChunk ..0000.2993!36 len:36 { "us flop. And we acknowledge that" … }
+│                      → StrChunk ..0000.3118!1 len:91 { "w" }
+│                        ← StrChunk ..0000.3096!1 len:11 { "h" }
+│                          ← StrChunk ..0000.3090!1 len:1 { "t" }
+│                            ← StrChunk ..0000.3083!7 len:0 [7]
+│                          → StrChunk ..0000.3098!9 len:9 { "ought we " }
+│                        → StrChunk ..0000.3107!4 len:79 [4]
+│                          ← StrChunk ..0000.3120!79 len:79 { "ould. And then someone else gets" … }
+│                          → StrChunk ..0000.2967!13 len:0 [13]
+│                    → StrChunk ..0000.2601!2 len:47 { "\n\n" }
+│                      ← StrChunk ..0000.2750!13 len:0 [13]
+│                        ← StrChunk ..0000.2807!1 len:0 [1]
+│                          ← StrChunk ..0000.2908!4 len:0 [4]
+│                            ← StrChunk ..0000.2942!1 len:0 [1]
+│                          → StrChunk ..0000.2740!4 len:0 [4]
+│                        → StrChunk ..0000.2703!1 len:0 [1]
+│                          ← StrChunk ..0000.2746!2 len:0 [2]
+│                          → StrChunk ..0000.2649!7 len:0 [7]
+│                      → StrChunk ..0000.3907!14 len:45 [14]
+│                        ← StrChunk ..0000.3902!5 len:36 { "tely " }
+│                          ← StrChunk ..0000.3871!29 len:29 { "I've been talking about it la" }
+│                          → StrChunk ..0000.3956!2 len:2 { "by" }
+│                        → StrChunk ..0000.3959!5 len:9 { "descr" }
+│                          ← StrChunk ..0000.3921!1 len:1 { " " }
+│                          → StrChunk ..0000.3968!3 len:3 { "ibi" }
+│                → StrChunk ..0000.4664!3 len:875 { "old" }
+│                  ← StrChunk ..0000.4433!1 len:524 { " " }
+│                    ← StrChunk ..0000.4100!6 len:308 { "if I d" }
+│                      ← StrChunk ..0000.3995!61 len:87 { " philosophy I think I've acciden" … }
+│                        ← StrChunk ..0000.3958!1 len:2 { " " }
+│                          ← StrChunk ..0000.3964!2 len:0 [2]
+│                            ← StrChunk ..0000.3971!2 len:0 [2]
+│                          → StrChunk ..0000.3978!1 len:1 { "a" }
+│                        → StrChunk ..0000.4074!8 len:24 { "think I " }
+│                          ← StrChunk ..0000.4069!2 len:2 { "I " }
+│                          → StrChunk ..0000.4084!14 len:14 { "believed that " }
+│                      → StrChunk ..0000.4342!17 len:215 { "not flawed I am. " }
+│                        ← StrChunk ..0000.4256!40 len:191 { "because I'd be untouchable, and " … }
+│                          ← StrChunk ..0000.4172!74 len:113 { "g\", then nobody would be able to" … }
+│                            ← StrChunk ..0000.4131!39 len:39 { "id everything \"right\" and nothin" … }
+│                          → StrChunk ..0000.4300!38 len:38 { "everyone would love me because o" … }
+│                        → StrChunk ..0000.4429!1 len:7 { " " }
+│                          ← StrChunk ..0000.4430!3 len:3 { "I'd" }
+│                          → StrChunk ..0000.4434!3 len:3 { "get" }
+│                    → StrChunk ..0000.4453!1 len:215 [1]
+│                      ← StrChunk ..0000.4444!2 len:20 { "in" }
+│                        ← StrChunk ..0000.4441!2 len:6 { "A+" }
+│                          ← StrChunk ..0000.4437!1 len:3 { " " }
+│                            ← StrChunk ..0000.4438!2 len:2 { "an" }
+│                          → StrChunk ..0000.4440!1 len:1 { " " }
+│                        → StrChunk ..0000.4447!2 len:12 { "fr" }
+│                          ← StrChunk ..0000.4443!1 len:1 { " " }
+│                          → StrChunk ..0000.4455!9 len:9 { "iendship." }
+│                      → StrChunk ..0000.4389!33 len:195 { "stupid and the wrong way around." … }
+│                        ← StrChunk ..0000.4446!1 len:26 { " " }
+│                          ← StrChunk ..0000.4449!2 len:0 [2]
+│                          → StrChunk ..0000.4359!25 len:25 { "Anyway, thats absolutely " }
+│                        → StrChunk ..0000.4552!85 len:136 { "ect they are? Obviously not, tha" … }
+│                          ← StrChunk ..0000.4498!50 len:50 { "Do you love your most perfect fr" … }
+│                          → StrChunk ..0000.4661!1 len:1 { "b" }
+│                  → StrChunk ..0000.3977!1 len:348 [1]
+│                    ← StrChunk ..0000.4338!2 len:89 [2]
+│                      ← StrChunk ..0000.4637!12 len:89 [12]
+│                        ← StrChunk ..0000.4705!3 len:89 [3]
+│                          ← StrChunk ..0000.4711!54 len:89 { "fall apart. And when they fall a" … }
+│                            ← StrChunk ..0000.4670!35 len:35 { "ly try to do things even when th" … }
+│                          → StrChunk ..0000.4668!1 len:0 [1]
+│                        → StrChunk ..0000.4465!31 len:0 [31]
+│                          ← StrChunk ..0000.4548!2 len:0 [2]
+│                          → StrChunk ..0000.4384!4 len:0 [4]
+│                      → StrChunk ..0000.4125!5 len:0 [5]
+│                        ← StrChunk ..0000.4246!2 len:0 [2]
+│                          ← StrChunk ..0000.4296!2 len:0 [2]
+│                          → StrChunk ..0000.4170!1 len:0 [1]
+│                        → StrChunk ..0000.4082!1 len:0 [1]
+│                          ← StrChunk ..0000.4106!6 len:0 [6]
+│                          → StrChunk ..0000.3979!1 len:0 [1]
+│                    → StrChunk ..0000.4820!114 len:259 { "We want to see their eyes. We wa" … }
+│                      ← StrChunk ..0000.3934!2 len:25 [2]
+│                        ← StrChunk ..0000.3931!3 len:0 [3]
+│                          ← StrChunk ..0000.3940!15 len:0 [15]
+│                            ← StrChunk ..0000.3922!9 len:0 [9]
+│                          → StrChunk ..0000.3937!2 len:0 [2]
+│                        → StrChunk ..0000.3867!2 len:25 { "\n\n" }
+│                          ← StrChunk ..0000.3900!1 len:0 [1]
+│                          → StrChunk ..0000.4767!23 len:23 { "The stage is the same. " }
+│                      → StrChunk ..0000.4934!5 len:120 [5]
+│                        ← StrChunk ..0000.4989!81 len:120 { "in the singers' voices, because " … }
+│                          ← StrChunk ..0000.4944!39 len:39 { "We love music where we can hear " … }
+│                          → StrChunk ..0000.4983!3 len:0 [3]
+│                        → StrChunk ..0000.4796!1 len:0 [1]
+│                          ← StrChunk ..0000.4790!2 len:0 [2]
+│                          → StrChunk ..0000.4799!7 len:0 [7]
+│          → StrChunk ..0002.7138!1 len:5130 { "," }
+│            ← StrChunk ..0002.5067!118 len:2308 { "n't believe in hindsight that ot" … }
+│              ← StrChunk ..0000.5131!2 len:1028 { "la" }
+│                ← StrChunk ..0002.4171!7 len:583 { "ite fac" }
+│                  ← StrChunk ..0002.1359!1 len:398 { "\n" }
+│                    ← StrChunk ..0000.2379!1 len:203 [1]
+│                      ← StrChunk ..0000.2418!1 len:145 { "'" }
+│                        ← StrChunk ..0000.2352!27 len:130 { "vity. But you have to say i" }
+│                          ← StrChunk ..0000.2274!58 len:69 { "s whole thing thats hard to name" … }
+│                            ← StrChunk ..0000.2257!11 len:11 { "There's thi" }
+│                          → StrChunk ..0000.2381!34 len:34 { "t with a french accent. Sensitiv" … }
+│                        → StrChunk ..0000.2427!1 len:14 { "o" }
+│                          ← StrChunk ..0000.2422!1 len:1 { " " }
+│                          → StrChunk ..0000.2430!12 len:12 { "r something." }
+│                      → StrChunk ..0000.1696!4 len:58 { "So d" }
+│                        ← StrChunk ..0000.2268!3 len:2 [3]
+│                          ← StrChunk ..0000.2334!1 len:0 [1]
+│                            ← StrChunk ..0000.2332!1 len:0 [1]
+│                          → StrChunk ..0000.2255!2 len:2 { "\n\n" }
+│                        → StrChunk ..0000.1700!1 len:52 [1]
+│                          ← StrChunk ..0000.1702!52 len:52 { "o you wanna talk about what actu" … }
+│                          → StrChunk ..0000.1689!6 len:0 [6]
+│                    → StrChunk ..0002.3957!1 len:194 { "i" }
+│                      ← StrChunk ..0002.3910!9 len:38 { "ut clown " }
+│                        ← StrChunk ..0002.3898!2 len:22 { " p" }
+│                          ← StrChunk ..0002.3867!12 len:13 { "A surprising" }
+│                            ← StrChunk ..0000.1887!1 len:1 { "\n" }
+│                          → StrChunk ..0002.3901!7 len:7 { "art abo" }
+│                        → StrChunk ..0000.1890!1 len:7 [1]
+│                          ← StrChunk ..0002.3950!1 len:1 { "s" }
+│                          → StrChunk ..0002.3923!6 len:6 { "chool " }
+│                      → StrChunk ..0002.4049!95 len:155 { "let me clear something up right " … }
+│                        ← StrChunk ..0002.3965!45 len:53 { "ually how little time you spend " … }
+│                          ← StrChunk ..0002.3959!5 len:5 { "s act" }
+│                          → StrChunk ..0002.4042!3 len:3 { "nd " }
+│                        → StrChunk ..0002.4154!4 len:7 { " or " }
+│                          ← StrChunk ..0002.4148!1 len:1 { "," }
+│                          → StrChunk ..0002.4167!2 len:2 { "wh" }
+│                  → StrChunk ..0002.4350!3 len:178 { "ut " }
+│                    ← StrChunk ..0002.4279!2 len:103 { "no" }
+│                      ← StrChunk ..0002.4202!15 len:73 { "ing like that. " }
+│                        ← StrChunk ..0002.4189!5 len:16 { "t or " }
+│                          ← StrChunk ..0002.4183!4 len:6 { "pain" }
+│                            ← StrChunk ..0002.4179!2 len:2 { "e " }
+│                          → StrChunk ..0002.4196!5 len:5 { "anyth" }
+│                        → StrChunk ..0002.4242!18 len:42 { "we did have red cl" }
+│                          ← StrChunk ..0002.4221!20 len:20 { "Well, actually yeah " }
+│                          → StrChunk ..0002.4273!4 len:4 { "own " }
+│                      → StrChunk ..0002.4321!12 len:28 { " get to that" }
+│                        ← StrChunk ..0002.4309!5 len:13 { "ut we" }
+│                          ← StrChunk ..0002.4302!1 len:5 { "b" }
+│                            ← StrChunk ..0002.4287!4 len:4 { "ses " }
+│                          → StrChunk ..0002.4316!3 len:3 { "'ll" }
+│                        → StrChunk ..0002.4336!1 len:3 { " " }
+│                          ← StrChunk ..0002.4334!1 len:1 { "." }
+│                          → StrChunk ..0002.4343!1 len:1 { "B" }
+│                    → StrChunk ..0002.4419!23 len:72 { "more like \"physical the" }
+│                      ← StrChunk ..0002.4395!1 len:40 { " " }
+│                        ← StrChunk ..0002.4373!10 len:27 { "refer to \"" }
+│                          ← StrChunk ..0002.4369!2 len:8 { "e " }
+│                            ← StrChunk ..0002.4362!6 len:6 { "when w" }
+│                          → StrChunk ..0002.4385!9 len:9 { "clowning\"" }
+│                        → StrChunk ..0002.4407!1 len:12 { "r" }
+│                          ← StrChunk ..0002.4400!5 len:5 { "it's " }
+│                          → StrChunk ..0002.4412!6 len:6 { "eally " }
+│                      → StrChunk ..0002.4194!1 len:9 [1]
+│                        ← StrChunk ..0002.4405!1 len:1 [1]
+│                          ← StrChunk ..0002.4464!1 len:1 { "a" }
+│                          → StrChunk ..0002.4260!4 len:0 [4]
+│                        → StrChunk ..0002.4444!3 len:8 { "tre" }
+│                          ← StrChunk ..0000.1891!1 len:0 [1]
+│                          → StrChunk ..0002.4496!5 len:5 { "\", re" }
+│                → StrChunk ..0000.5233!20 len:443 { "eir ex students. Is " }
+│                  ← StrChunk ..0002.4633!4 len:173 { "ying" }
+│                    ← StrChunk ..0002.4565!7 len:63 { "were a " }
+│                      ← StrChunk ..0002.4537!3 len:24 { " an" }
+│                        ← StrChunk ..0002.4523!3 len:13 { "pro" }
+│                          ← StrChunk ..0002.4503!9 len:9 { "ted to im" }
+│                            ← StrChunk ..0002.4501!2 len:0 [2]
+│                          → StrChunk ..0002.4528!1 len:1 { "v" }
+│                        → StrChunk ..0002.4548!4 len:8 { "ther" }
+│                          ← StrChunk ..0002.4544!2 len:2 { "d " }
+│                          → StrChunk ..0002.4556!2 len:2 { "e " }
+│                      → StrChunk ..0002.4599!1 len:32 { "i" }
+│                        ← StrChunk ..0002.4589!4 len:16 { "tors" }
+│                          ← StrChunk ..0002.4585!3 len:11 { " ac" }
+│                            ← StrChunk ..0002.4576!8 len:8 { "fair few" }
+│                          → StrChunk ..0002.4594!1 len:1 { " " }
+│                        → StrChunk ..0002.4612!5 len:15 { "the c" }
+│                          ← StrChunk ..0002.4605!2 len:2 { "n " }
+│                          → StrChunk ..0002.4622!8 len:8 { "lass, tr" }
+│                    → StrChunk ..0002.4748!1 len:106 { " " }
+│                      ← StrChunk ..0002.4714!5 len:53 { "stage" }
+│                        ← StrChunk ..0002.4679!4 len:33 { "ce o" }
+│                          ← StrChunk ..0002.4646!23 len:27 { "enliven their performan" }
+│                            ← StrChunk ..0002.4640!4 len:4 { " to " }
+│                          → StrChunk ..0002.4708!2 len:2 { "n " }
+│                        → StrChunk ..0002.4735!4 len:15 { "ture" }
+│                          ← StrChunk ..0002.4722!10 len:10 { " in the fu" }
+│                          → StrChunk ..0002.4742!1 len:1 { "." }
+│                      → StrChunk ..0000.5180!6 len:52 { "well, " }
+│                        ← StrChunk ..0000.5165!3 len:9 { "was" }
+│                          ← StrChunk ..0000.5160!3 len:3 { "It " }
+│                          → StrChunk ..0000.5169!3 len:3 { " - " }
+│                        → StrChunk ..0000.5210!2 len:37 { " c" }
+│                          ← StrChunk ..0000.5192!17 len:17 { "like, sasha baran" }
+│                          → StrChunk ..0000.5214!18 len:18 { "ohen was one of th" }
+│                  → StrChunk ..0002.4865!8 len:250 { "heory be" }
+│                    ← StrChunk ..0002.4512!4 len:113 [4]
+│                      ← StrChunk ..0000.5253!1 len:43 [1]
+│                        ← StrChunk ..0000.5302!8 len:43 [8]
+│                          ← StrChunk ..0000.5311!11 len:43 { "kind of is." }
+│                            ← StrChunk ..0000.5255!32 len:32 { "Barat a clowning movie? Yeah it " }
+│                          → StrChunk ..0000.5287!9 len:0 [9]
+│                        → StrChunk ..0002.4669!5 len:0 [5]
+│                          ← StrChunk ..0000.5186!5 len:0 [5]
+│                          → StrChunk ..0002.4558!1 len:0 [1]
+│                      → StrChunk ..0002.4685!5 len:70 [5]
+│                        ← StrChunk ..0002.4015!2 len:1 [2]
+│                          ← StrChunk ..0002.4486!1 len:0 [1]
+│                          → StrChunk ..0000.1892!1 len:1 { "\n" }
+│                        → StrChunk ..0002.4790!55 len:69 { "So yeah, it was 4 hours a day. 2" … }
+│                          ← StrChunk ..0000.1893!1 len:1 { "\n" }
+│                          → StrChunk ..0002.4848!13 len:13 { "ove this in t" }
+│                    → StrChunk ..0002.4980!17 len:129 { "hysical body beca" }
+│                      ← StrChunk ..0002.4925!7 len:78 { "and lim" }
+│                        ← StrChunk ..0002.4892!5 len:34 { " all " }
+│                          ← StrChunk ..0002.4886!4 len:10 { "it's" }
+│                            ← StrChunk ..0002.4874!6 len:6 { "cause " }
+│                          → StrChunk ..0002.4899!19 len:19 { "about loosening up " }
+│                        → StrChunk ..0002.4953!11 len:37 { "ing more in" }
+│                          ← StrChunk ..0002.4934!18 len:18 { "bering up and gett" }
+│                          → StrChunk ..0002.4970!8 len:8 { "to you p" }
+│                      → StrChunk ..0002.5020!9 len:34 { "s your in" }
+│                        ← StrChunk ..0002.5008!2 len:10 { "th" }
+│                          ← StrChunk ..0002.5002!4 len:4 { "use " }
+│                          → StrChunk ..0002.5014!4 len:4 { "at i" }
+│                        → StrChunk ..0002.5052!3 len:15 { "ent" }
+│                          ← StrChunk ..0002.5044!5 len:5 { "strum" }
+│                          → StrChunk ..0002.5058!7 len:7 { " - I ca" }
+│              → StrChunk ..0002.6088!4 len:1162 { "t re" }
+│                ← StrChunk ..0002.5810!6 len:456 { "ecause" }
+│                  ← StrChunk ..0002.5531!1 len:306 { "k" }
+│                    ← StrChunk ..0002.5318!64 len:185 { "a lot of the movement felt like " … }
+│                      ← StrChunk ..0002.5273!4 len:79 { "ball" }
+│                        ← StrChunk ..0002.5248!1 len:61 { " " }
+│                          ← StrChunk ..0002.5241!2 len:50 { "st" }
+│                            ← StrChunk ..0002.5191!48 len:48 { "so much because my knees are a b" … }
+│                          → StrChunk ..0002.5254!10 len:10 { "life as a " }
+│                        → StrChunk ..0002.5294!7 len:14 { "dancer " }
+│                          ← StrChunk ..0002.5288!3 len:3 { "et " }
+│                          → StrChunk ..0002.5312!4 len:4 { "and " }
+│                      → StrChunk ..0002.5464!1 len:42 { " " }
+│                        ← StrChunk ..0002.5446!3 len:15 { "ren" }
+│                          ← StrChunk ..0002.5438!5 len:10 { "child" }
+│                            ← StrChunk ..0002.5385!5 len:5 { "X of " }
+│                          → StrChunk ..0002.5452!2 len:2 { "'s" }
+│                        → StrChunk ..0002.5520!2 len:26 { " f" }
+│                          ← StrChunk ..0002.5468!17 len:17 { "playground taunts" }
+│                          → StrChunk ..0002.5523!7 len:7 { "lashbac" }
+│                    → StrChunk ..0002.5629!2 len:120 { "e " }
+│                      ← StrChunk ..0002.5563!24 len:38 { ". Then the next 2 hours " }
+│                        ← StrChunk ..0002.5548!1 len:9 { " " }
+│                          ← StrChunk ..0002.5546!1 len:3 { "." }
+│                            ← StrChunk ..0002.5535!2 len:2 { "*)" }
+│                          → StrChunk ..0002.5556!5 len:5 { "Yikes" }
+│                        → StrChunk ..0002.5604!3 len:5 { "as " }
+│                          ← StrChunk ..0002.5600!1 len:1 { "w" }
+│                          → StrChunk ..0002.5621!1 len:1 { "L" }
+│                      → StrChunk ..0002.5695!5 len:80 { "med 2" }
+│                        ← StrChunk ..0002.5636!39 len:43 { "u (the game) or Clowning. But th" … }
+│                          ← StrChunk ..0002.5632!2 len:2 { "Je" }
+│                          → StrChunk ..0002.5689!2 len:2 { "am" }
+│                        → StrChunk ..0002.5717!30 len:32 { " people or so into this class " }
+│                          ← StrChunk ..0002.5702!1 len:1 { "5" }
+│                          → StrChunk ..0002.5804!1 len:1 { "b" }
+│                  → StrChunk ..0002.5872!4 len:144 { "arou" }
+│                    ← StrChunk ..0002.5402!14 len:40 [14]
+│                      ← StrChunk ..0002.5858!2 len:39 { " w" }
+│                        ← StrChunk ..0002.5828!15 len:28 { "acher was this " }
+│                          ← StrChunk ..0002.5823!2 len:7 { "te" }
+│                            ← StrChunk ..0002.5817!5 len:5 { " the " }
+│                          → StrChunk ..0002.5844!6 len:6 { "master" }
+│                        → StrChunk ..0002.5675!7 len:9 [7]
+│                          ← StrChunk ..0002.5863!9 len:9 { "ho'd been" }
+│                          → StrChunk ..0002.5390!4 len:0 [4]
+│                      → StrChunk ..0002.5185!3 len:1 [3]
+│                        ← StrChunk ..0002.5283!2 len:0 [2]
+│                          ← StrChunk ..0002.5291!1 len:0 [1]
+│                            ← StrChunk ..0002.5394!4 len:0 [4]
+│                          → StrChunk ..0002.5277!1 len:0 [1]
+│                        → StrChunk ..0002.4964!1 len:1 [1]
+│                          ← StrChunk ..0002.5029!1 len:0 [1]
+│                          → StrChunk ..0000.1894!1 len:1 { "\n" }
+│                    → StrChunk ..0002.5932!4 len:100 { "etit" }
+│                      ← StrChunk ..0002.5901!2 len:27 { ", " }
+│                        ← StrChunk ..0002.5887!3 len:15 { "40 " }
+│                          ← StrChunk ..0002.5880!5 len:7 { " for " }
+│                            ← StrChunk ..0002.5877!2 len:2 { "nd" }
+│                          → StrChunk ..0002.5891!5 len:5 { "years" }
+│                        → StrChunk ..0002.5922!1 len:10 { "a" }
+│                          ← StrChunk ..0002.5913!7 len:7 { "so the " }
+│                          → StrChunk ..0002.5928!2 len:2 { "pp" }
+│                      → StrChunk ..0002.6026!16 len:69 { "this is a French" }
+│                        ← StrChunk ..0002.5993!13 len:32 { " And I don't " }
+│                          ← StrChunk ..0002.5937!11 len:11 { "e was here." }
+│                          → StrChunk ..0002.6016!8 len:8 { "know if " }
+│                        → StrChunk ..0002.6073!8 len:21 { "ut they " }
+│                          ← StrChunk ..0002.6064!8 len:8 { " thing b" }
+│                          → StrChunk ..0002.6082!5 len:5 { "didn'" }
+│                → StrChunk ..0002.6430!1 len:702 { "f" }
+│                  ← StrChunk ..0002.6295!9 len:192 { "f catchcr" }
+│                    ← StrChunk ..0002.6214!8 len:99 { "nd again" }
+│                      ← StrChunk ..0002.6150!3 len:50 { "dy " }
+│                        ← StrChunk ..0002.6131!3 len:33 { "e s" }
+│                          ← StrChunk ..0002.6125!3 len:18 { "mak" }
+│                            ← StrChunk ..0002.6093!15 len:15 { "ally bother to " }
+│                          → StrChunk ..0002.6137!12 len:12 { "ure \"everybo" }
+│                        → StrChunk ..0002.6204!2 len:14 { "\" " }
+│                          ← StrChunk ..0002.6158!11 len:11 { "got a turn." }
+│                          → StrChunk ..0002.6208!1 len:1 { "A" }
+│                      → StrChunk ..0002.6251!4 len:41 { " wha" }
+│                        ← StrChunk ..0002.6236!4 len:15 { "l re" }
+│                          ← StrChunk ..0002.6231!3 len:7 { "wil" }
+│                            ← StrChunk ..0002.6224!4 len:4 { ", I " }
+│                          → StrChunk ..0002.6245!4 len:4 { "peat" }
+│                        → StrChunk ..0002.6276!4 len:22 { "ing " }
+│                          ← StrChunk ..0002.6257!10 len:10 { "t is becom" }
+│                          → StrChunk ..0002.6282!8 len:8 { "a kind o" }
+│                    → StrChunk ..0002.6358!2 len:84 { "ce" }
+│                      ← StrChunk ..0002.6334!4 len:35 { "his " }
+│                        ← StrChunk ..0002.6323!3 len:17 { " ab" }
+│                          ← StrChunk ..0002.6315!4 len:9 { "mine" }
+│                            ← StrChunk ..0002.6308!5 len:5 { "y of " }
+│                          → StrChunk ..0002.6328!5 len:5 { "out t" }
+│                        → StrChunk ..0002.6346!4 len:14 { "e ex" }
+│                          ← StrChunk ..0002.6340!4 len:4 { "whol" }
+│                          → StrChunk ..0002.6351!6 len:6 { "perien" }
+│                      → StrChunk ..0002.6381!14 len:47 { "actually kind " }
+│                        ← StrChunk ..0002.6370!1 len:5 { "\"" }
+│                          ← StrChunk ..0002.6364!2 len:2 { ". " }
+│                          → StrChunk ..0002.6376!2 len:2 { "I " }
+│                        → StrChunk ..0002.6401!2 len:28 { "ge" }
+│                          ← StrChunk ..0002.6396!3 len:3 { "of " }
+│                          → StrChunk ..0002.6405!23 len:23 { "t what they were going " }
+│                  → StrChunk ..0002.6832!9 len:509 { "old out m" }
+│                    ← StrChunk ..0002.6647!4 len:277 { "ace " }
+│                      ← StrChunk ..0002.6552!42 len:128 { "Sitting for 2 hours watching oth" … }
+│                        ← StrChunk ..0002.6481!1 len:46 { "t" }
+│                          ← StrChunk ..0002.6443!37 len:42 { "t makes sense. But it also reall" … }
+│                            ← StrChunk ..0002.6436!5 len:5 { "or. I" }
+│                          → StrChunk ..0002.6484!3 len:3 { ".\" " }
+│                        → StrChunk ..0002.6604!25 len:40 { "aphorically elbow each ot" }
+│                          ← StrChunk ..0002.6597!3 len:3 { "met" }
+│                          → StrChunk ..0002.6632!12 len:12 { "her in the f" }
+│                      → StrChunk ..0000.6907!1 len:145 { "l" }
+│                        ← StrChunk ..0002.6692!14 len:107 { "front of the m" }
+│                          ← StrChunk ..0002.6659!32 len:32 { "to try to get some stagetime in " }
+│                          → StrChunk ..0002.6707!61 len:61 { "aster himself put me in this wil" … }
+│                        → StrChunk ..0002.6797!11 len:37 { "l like I'd " }
+│                          ← StrChunk ..0002.6768!25 len:25 { "utely did not want to fee" }
+│                          → StrChunk ..0002.6828!1 len:1 { "s" }
+│                    → StrChunk ..0002.7007!1 len:223 { " " }
+│                      ← StrChunk ..0002.6916!16 len:124 { "e way. But then " }
+│                        ← StrChunk ..0002.6872!28 len:56 { "o try to push other people o" }
+│                          ← StrChunk ..0002.6852!18 len:20 { "morals instantly t" }
+│                            ← StrChunk ..0002.6844!2 len:2 { "y " }
+│                          → StrChunk ..0002.6904!8 len:8 { "ut of th" }
+│                        → StrChunk ..0002.6985!9 len:52 { "ore unaba" }
+│                          ← StrChunk ..0002.6934!33 len:33 { "again, the same people who were " … }
+│                          → StrChunk ..0002.6995!10 len:10 { "shed about" }
+│                      → StrChunk ..0002.7053!42 len:98 { "ce on stage would keep reappeari" … }
+│                        ← StrChunk ..0002.7022!13 len:21 { "taking their " }
+│                          ← StrChunk ..0002.7016!5 len:5 { "just " }
+│                          → StrChunk ..0002.7049!3 len:3 { "spa" }
+│                        → StrChunk ..0002.7102!27 len:35 { "end two hours sitting in a " }
+│                          ← StrChunk ..0002.7097!3 len:3 { " sp" }
+│                          → StrChunk ..0002.7131!5 len:5 { "chair" }
+│            → StrChunk ..0002.6644!1 len:2821 [1]
+│              ← StrChunk ..0002.8161!5 len:1101 { "n you" }
+│                ← StrChunk ..0002.7502!11 len:730 { "coming up, " }
+│                  ← StrChunk ..0002.7342!5 len:216 { "ittin" }
+│                    ← StrChunk ..0002.7225!1 len:118 { "l" }
+│                      ← StrChunk ..0002.7195!1 len:51 { " " }
+│                        ← StrChunk ..0002.7172!4 len:43 { "age " }
+│                          ← StrChunk ..0002.7150!21 len:25 { "ching them flop on st" }
+│                            ← StrChunk ..0002.7143!4 len:4 { " wat" }
+│                          → StrChunk ..0002.7178!14 len:14 { "(as we all did" }
+│                        → StrChunk ..0002.7207!1 len:7 { " " }
+│                          ← StrChunk ..0002.7202!4 len:4 { "- we" }
+│                          → StrChunk ..0002.7220!2 len:2 { "al" }
+│                      → StrChunk ..0002.7268!34 len:66 { " on but will explain that later " … }
+│                        ← StrChunk ..0002.7240!13 len:28 { "ess funny as " }
+│                          ← StrChunk ..0002.7237!2 len:6 { " l" }
+│                            ← StrChunk ..0002.7231!4 len:4 { " got" }
+│                          → StrChunk ..0002.7255!9 len:9 { "time went" }
+│                        → StrChunk ..0002.7324!1 len:4 { " " }
+│                          ← StrChunk ..0002.7306!2 len:2 { ")." }
+│                          → StrChunk ..0002.7338!1 len:1 { "S" }
+│                    → StrChunk ..0002.7435!1 len:93 { "a" }
+│                      ← StrChunk ..0002.7376!4 len:47 { "de y" }
+│                        ← StrChunk ..0002.7365!4 len:16 { "urs " }
+│                          ← StrChunk ..0002.7360!3 len:10 { " ho" }
+│                            ← StrChunk ..0002.7348!7 len:7 { "g for 2" }
+│                          → StrChunk ..0002.7372!2 len:2 { "ma" }
+│                        → StrChunk ..0002.7417!4 len:27 { " and" }
+│                          ← StrChunk ..0002.7381!16 len:16 { "ou lose momentum" }
+│                          → StrChunk ..0002.7424!7 len:7 { " inspir" }
+│                      → StrChunk ..0002.7470!4 len:45 { "f sh" }
+│                        ← StrChunk ..0002.7449!15 len:22 { ", and I felt my" }
+│                          ← StrChunk ..0002.7438!4 len:4 { "tion" }
+│                          → StrChunk ..0002.7466!3 len:3 { "sel" }
+│                        → StrChunk ..0002.7482!6 len:19 { "ing an" }
+│                          ← StrChunk ..0002.7475!4 len:4 { "rink" }
+│                          → StrChunk ..0002.7489!9 len:9 { "d a wall " }
+│                  → StrChunk ..0002.7829!25 len:503 { "getting pushed around by " }
+│                    ← StrChunk ..0002.7716!8 len:231 { "\" But it" }
+│                      ← StrChunk ..0002.7591!21 len:172 { "elbow anyone in the r" }
+│                        ← StrChunk ..0002.7541!13 len:60 { "k. \"It's fine" }
+│                          ← StrChunk ..0002.7521!18 len:19 { "rying to make it o" }
+│                            ← StrChunk ..0002.7514!1 len:1 { "t" }
+│                          → StrChunk ..0002.7556!28 len:28 { ". I'm ok with this. I won't " }
+│                        → StrChunk ..0002.7689!18 len:91 { "ve and take great " }
+│                          ← StrChunk ..0002.7614!67 len:67 { "ibs just to get some time on sta" … }
+│                          → StrChunk ..0002.7709!6 len:6 { "notes." }
+│                      → StrChunk ..0002.7766!3 len:51 { ". I" }
+│                        ← StrChunk ..0002.7753!3 len:15 { "eel" }
+│                          ← StrChunk ..0002.7746!4 len:9 { "'t f" }
+│                            ← StrChunk ..0002.7726!5 len:5 { " didn" }
+│                          → StrChunk ..0002.7759!3 len:3 { " ok" }
+│                        → StrChunk ..0002.7782!17 len:33 { "like being compli" }
+│                          ← StrChunk ..0002.7770!7 len:7 { "t felt " }
+│                          → StrChunk ..0002.7803!9 len:9 { "cit with " }
+│                    → StrChunk ..0002.8090!6 len:247 { "kind o" }
+│                      ← StrChunk ..0002.8002!4 len:200 { "It w" }
+│                        ← StrChunk ..0002.7963!5 len:120 { "time " }
+│                          ← StrChunk ..0002.7894!65 len:102 { "class who'd sel-elected as being" … }
+│                            ← StrChunk ..0002.7855!37 len:37 { "an arbitrary number of people in" … }
+│                          → StrChunk ..0002.7970!13 len:13 { "than anyone. " }
+│                        → StrChunk ..0002.8012!70 len:76 { "a huge distraction. But I can se" … }
+│                          ← StrChunk ..0002.8008!3 len:3 { "as " }
+│                          → StrChunk ..0002.8083!3 len:3 { "ou " }
+│                      → StrChunk ..0002.8133!2 len:41 { "o " }
+│                        ← StrChunk ..0002.8106!9 len:30 { "oing to h" }
+│                          ← StrChunk ..0002.8098!7 len:7 { "f are g" }
+│                          → StrChunk ..0002.8116!14 len:14 { "ave to learn t" }
+│                        → StrChunk ..0002.8149!5 len:9 { "eleiv" }
+│                          ← StrChunk ..0002.8142!1 len:1 { "b" }
+│                          → StrChunk ..0002.8157!3 len:3 { "e i" }
+│                → StrChunk ..0002.8662!4 len:366 { "own " }
+│                  ← StrChunk ..0002.8416!47 len:315 { " the baby of the family, and so " … }
+│                    ← StrChunk ..0002.8273!1 len:144 { "s" }
+│                      ← StrChunk ..0002.8213!5 len:35 { "ealth" }
+│                        ← StrChunk ..0002.8186!6 len:21 { " this " }
+│                          ← StrChunk ..0002.8173!11 len:14 { "lf and have" }
+│                            ← StrChunk ..0002.8167!3 len:3 { "rse" }
+│                          → StrChunk ..0002.8207!1 len:1 { "h" }
+│                        → StrChunk ..0002.8232!3 len:9 { " al" }
+│                          ← StrChunk ..0002.8230!1 len:1 { "y" }
+│                          → StrChunk ..0002.8239!5 len:5 { "most " }
+│                      → StrChunk ..0002.8319!4 len:108 { "stag" }
+│                        ← StrChunk ..0002.8303!5 len:24 { "e to " }
+│                          ← StrChunk ..0002.8297!3 len:12 { "riv" }
+│                            ← StrChunk ..0002.8278!9 len:9 { "ingular d" }
+│                          → StrChunk ..0002.8311!7 len:7 { "get on " }
+│                        → StrChunk ..0002.8333!74 len:80 { "and *dazzle* the audience. No ti" … }
+│                          ← StrChunk ..0002.8326!2 len:2 { "e " }
+│                          → StrChunk ..0002.8410!4 len:4 { "I am" }
+│                    → StrChunk ..0002.8544!19 len:124 { "doing? They're all " }
+│                      ← StrChunk ..0002.8496!3 len:56 { "dev" }
+│                        ← StrChunk ..0002.8478!7 len:19 { "ever re" }
+│                          ← StrChunk ..0002.8473!3 len:7 { "e n" }
+│                            ← StrChunk ..0002.8466!4 len:4 { "driv" }
+│                          → StrChunk ..0002.8486!5 len:5 { "ally " }
+│                        → StrChunk ..0002.8508!4 len:34 { "oped" }
+│                          ← StrChunk ..0002.8503!2 len:2 { "el" }
+│                          → StrChunk ..0002.8514!28 len:28 { ". Who cares what others are " }
+│                      → StrChunk ..0002.8608!1 len:49 { "I" }
+│                        ← StrChunk ..0002.8570!15 len:19 { "der and smarter" }
+│                          ← StrChunk ..0002.8567!2 len:2 { "ol" }
+│                          → StrChunk ..0002.8600!2 len:2 { ". " }
+│                        → StrChunk ..0002.8619!23 len:29 { "way more interested in " }
+│                          ← StrChunk ..0002.8613!3 len:3 { "'m " }
+│                          → StrChunk ..0002.8654!3 len:3 { "my " }
+│                  → StrChunk ..0002.7539!1 len:47 [1]
+│                    ← StrChunk ..0002.7959!2 len:47 [2]
+│                      ← StrChunk ..0002.8563!1 len:47 [1]
+│                        ← StrChunk ..0002.8688!35 len:47 { "ing and improving on my own term" … }
+│                          ← StrChunk ..0002.8674!8 len:12 { "g, learn" }
+│                            ← StrChunk ..0002.8668!4 len:4 { "thin" }
+│                          → StrChunk ..0002.8682!3 len:0 [3]
+│                        → StrChunk ..0002.8309!1 len:0 [1]
+│                          ← StrChunk ..0002.8542!1 len:0 [1]
+│                          → StrChunk ..0002.8287!1 len:0 [1]
+│                      → StrChunk ..0002.7724!1 len:0 [1]
+│                        ← StrChunk ..0002.7812!4 len:0 [4]
+│                          ← StrChunk ..0002.7892!1 len:0 [1]
+│                          → StrChunk ..0002.7735!1 len:0 [1]
+│                        → StrChunk ..0002.7681!4 len:0 [4]
+│                          ← StrChunk ..0002.7707!1 len:0 [1]
+│                          → StrChunk ..0002.7612!1 len:0 [1]
+│                    → StrChunk ..0002.7129!1 len:0 [1]
+│                      ← StrChunk ..0002.7253!1 len:0 [1]
+│                        ← StrChunk ..0002.7398!2 len:0 [2]
+│                          ← StrChunk ..0002.7431!1 len:0 [1]
+│                            ← StrChunk ..0002.7498!2 len:0 [2]
+│                          → StrChunk ..0002.7264!2 len:0 [2]
+│                        → StrChunk ..0002.7214!2 len:0 [2]
+│                          ← StrChunk ..0002.7222!1 len:0 [1]
+│                          → StrChunk ..0002.7136!1 len:0 [1]
+│                      → StrChunk ..0002.6900!2 len:0 [2]
+│                        ← StrChunk ..0002.6932!1 len:0 [1]
+│                          ← StrChunk ..0002.6967!3 len:0 [3]
+│                          → StrChunk ..0002.6912!2 len:0 [2]
+│                        → StrChunk ..0002.6793!1 len:0 [1]
+│                          ← StrChunk ..0002.6842!1 len:0 [1]
+│                          → StrChunk ..0002.6651!4 len:0 [4]
+│              → StrChunk ..0000.6763!2 len:1720 { " B" }
+│                ← StrChunk ..0000.5633!1 len:1074 [1]
+│                  ← StrChunk ..0000.5389!18 len:209 { "movement class. I " }
+│                    ← StrChunk ..0002.5923!1 len:25 [1]
+│                      ← StrChunk ..0002.6170!1 len:0 [1]
+│                        ← StrChunk ..0002.6187!1 len:0 [1]
+│                          ← StrChunk ..0002.6222!1 len:0 [1]
+│                            ← StrChunk ..0002.6267!1 len:0 [1]
+│                          → StrChunk ..0002.6194!1 len:0 [1]
+│                        → StrChunk ..0002.6024!1 len:0 [1]
+│                          ← StrChunk ..0002.6042!11 len:0 [11]
+│                          → StrChunk ..0002.6006!5 len:0 [5]
+│                      → StrChunk ..0000.5379!1 len:25 { "I" }
+│                        ← StrChunk ..0002.5951!1 len:2 [1]
+│                          ← StrChunk ..0002.5992!1 len:2 { "\n" }
+│                            ← StrChunk ..0000.1895!1 len:1 { "\n" }
+│                          → StrChunk ..0002.5959!3 len:0 [3]
+│                        → StrChunk ..0000.5520!1 len:22 { "I" }
+│                          ← StrChunk ..0000.5521!14 len:14 { "n comparison, " }
+│                          → StrChunk ..0000.5380!7 len:7 { " loved " }
+│                    → StrChunk ..0000.5470!2 len:166 [2]
+│                      ← StrChunk ..0000.5541!21 len:123 { " every day was great." }
+│                        ← StrChunk ..0000.5474!28 len:102 { "ing for the last few years a" }
+│                          ← StrChunk ..0000.5414!56 len:58 { "lt so much more fit by the end. " … }
+│                            ← StrChunk ..0000.5411!2 len:2 { "fe" }
+│                          → StrChunk ..0000.5504!16 len:16 { "nd doing 2 hours" }
+│                        → StrChunk ..0000.5535!3 len:0 [3]
+│                          ← StrChunk ..0000.5562!3 len:0 [3]
+│                          → StrChunk ..0000.5502!1 len:0 [1]
+│                      → StrChunk ..0002.4789!1 len:43 { "\n" }
+│                        ← StrChunk ..0000.5387!1 len:1 [1]
+│                          ← StrChunk ..0000.5409!1 len:0 [1]
+│                          → StrChunk ..0002.4784!1 len:1 { "\n" }
+│                        → StrChunk ..0000.5617!16 len:41 { "of that was le j" }
+│                          ← StrChunk ..0000.5591!24 len:24 { "But the broader context " }
+│                          → StrChunk ..0001.15536!1 len:1 { "e" }
+│                  → StrChunk ..0000.5847!93 len:865 { "ach other. Move so that the ball" … }
+│                    ← StrChunk ..0000.5722!1 len:173 { "b" }
+│                      ← StrChunk ..0000.5662!1 len:58 { " " }
+│                        ← StrChunk ..0000.5636!6 len:12 { ". The " }
+│                          ← StrChunk ..0000.5635!1 len:1 [1]
+│                            ← StrChunk ..0000.5634!1 len:1 { "u" }
+│                          → StrChunk ..0000.5644!5 len:5 { "Game." }
+│                        → StrChunk ..0000.5671!3 len:45 { ", h" }
+│                          ← StrChunk ..0000.5668!2 len:2 { "So" }
+│                          → StrChunk ..0000.5677!40 len:40 { "ow do I describe it? Mmmm take a" … }
+│                      → StrChunk ..0000.5717!4 len:114 { "all " }
+│                        ← StrChunk ..0000.5589!1 len:0 [1]
+│                          ← StrChunk ..0000.5615!1 len:0 [1]
+│                            ← StrChunk ..0000.5642!1 len:0 [1]
+│                          → StrChunk ..0000.5587!1 len:0 [1]
+│                        → StrChunk ..0000.5815!27 len:110 { "in the eyes. Then play with" }
+│                          ← StrChunk ..0000.5732!81 len:81 { "and put it between your head and" … }
+│                          → StrChunk ..0000.5843!2 len:2 { " e" }
+│                    → StrChunk ..0000.6301!92 len:599 { " wanted to see more of, as the a" … }
+│                      ← StrChunk ..0000.6109!53 len:263 { "regularly in movement class was " … }
+│                        ← StrChunk ..0000.6054!2 len:83 { "On" }
+│                          ← StrChunk ..0000.6048!1 len:50 { " " }
+│                            ← StrChunk ..0000.5942!49 len:49 { "to make your partner laugh and t" … }
+│                          → StrChunk ..0000.6058!31 len:31 { "e of the best exercises we did " }
+│                        → StrChunk ..0000.6171!47 len:127 { "'d all do it at the same time in" … }
+│                          ← StrChunk ..0000.6167!2 len:2 { "we" }
+│                          → StrChunk ..0000.6219!78 len:78 { "few pairs would get up and perfo" … }
+│                      → StrChunk ..0000.6568!78 len:244 { "e didn't all agree as a group - " … }
+│                        ← StrChunk ..0000.6486!69 len:118 { "Those two were boring. Those two" … }
+│                          ← StrChunk ..0000.6405!48 len:48 { "d them a bit. But a lot of it wa" … }
+│                          → StrChunk ..0000.6563!1 len:1 { "W" }
+│                        → StrChunk ..0000.6663!2 len:48 { "an" }
+│                          ← StrChunk ..0000.6655!2 len:2 { ", " }
+│                          → StrChunk ..0000.6668!44 len:44 { "d everyone else is like ???? you" … }
+│                → StrChunk ..0000.7562!30 len:644 { ". And then try something else." }
+│                  ← StrChunk ..0000.5940!1 len:517 [1]
+│                    ← StrChunk ..0000.6393!1 len:102 [1]
+│                      ← StrChunk ..0000.6555!7 len:102 [7]
+│                        ← StrChunk ..0000.6839!3 len:102 [3]
+│                          ← StrChunk ..0000.6845!29 len:102 { "fun\" right? (No, you're not)." }
+│                            ← StrChunk ..0000.6766!73 len:73 { "ut yeah, over and over again. Is" … }
+│                          → StrChunk ..0000.6564!2 len:0 [2]
+│                        → StrChunk ..0000.6483!2 len:0 [2]
+│                          ← StrChunk ..0000.6453!28 len:0 [28]
+│                          → StrChunk ..0000.6481!1 len:0 [1]
+│                      → StrChunk ..0000.6162!4 len:0 [4]
+│                        ← StrChunk ..0000.6297!2 len:0 [2]
+│                          ← StrChunk ..0000.6394!2 len:0 [2]
+│                            ← StrChunk ..0000.6398!3 len:0 [3]
+│                          → StrChunk ..0000.6169!1 len:0 [1]
+│                        → StrChunk ..0000.5991!1 len:0 [1]
+│                          ← StrChunk ..0000.6089!19 len:0 [19]
+│                          → StrChunk ..0000.5994!1 len:0 [1]
+│                    → StrChunk ..0000.7128!22 len:415 { "you to get off stage. " }
+│                      ← StrChunk ..0000.6966!1 len:104 { "\n" }
+│                        ← StrChunk ..0000.5727!1 len:1 [1]
+│                          ← StrChunk ..0000.5813!1 len:0 [1]
+│                            ← StrChunk ..0000.5845!1 len:0 [1]
+│                          → StrChunk ..0000.5588!1 len:1 { "\n" }
+│                        → StrChunk ..0000.7067!40 len:102 { "ou're boring and everyone hates " … }
+│                          ← StrChunk ..0000.6968!57 len:57 { "And then there's The Flop. Sooo," … }
+│                          → StrChunk ..0000.7121!5 len:5 { "want " }
+│                      → StrChunk ..0000.7266!22 len:289 { "cknowledge it. The aud" }
+│                        ← StrChunk ..0000.7182!58 len:81 { "learning to become sensitive to " … }
+│                          ← StrChunk ..0000.7152!22 len:22 { "A lot of clowning was " }
+│                          → StrChunk ..0000.7262!1 len:1 { "a" }
+│                        → StrChunk ..0000.7327!52 len:186 { "'d think they'd want you to leav" … }
+│                          ← StrChunk ..0000.7292!30 len:30 { "ience knows when you flop. You" }
+│                          → StrChunk ..0000.7387!104 len:104 { "r something. But we don't. We wa" … }
+│                  → StrChunk ..0000.7717!1 len:97 [1]
+│                    ← StrChunk ..0000.7714!3 len:96 { "rum" }
+│                      ← StrChunk ..0000.7702!11 len:21 [11]
+│                        ← StrChunk ..0000.7727!14 len:16 { "he teacher hel" }
+│                          ← StrChunk ..0000.7701!1 len:2 { "T" }
+│                            ← StrChunk ..0000.7597!1 len:1 { " " }
+│                          → StrChunk ..0000.7719!7 len:0 [7]
+│                        → StrChunk ..0000.7742!3 len:5 { " a " }
+│                          ← StrChunk ..0000.7713!1 len:1 { "d" }
+│                          → StrChunk ..0000.7741!1 len:1 { "d" }
+│                      → StrChunk ..0000.7863!1 len:72 [1]
+│                        ← StrChunk ..0000.7806!15 len:72 { " \"Come with us\"" }
+│                          ← StrChunk ..0000.7748!56 len:56 { ", and when it was beaten 3 times" … }
+│                          → StrChunk ..0000.7854!1 len:1 { "." }
+│                        → StrChunk ..0000.7821!2 len:0 [2]
+│                          ← StrChunk ..0000.7825!3 len:0 [3]
+│                          → StrChunk ..0000.7804!1 len:0 [1]
+│                    → StrChunk ..0000.7379!4 len:1 [4]
+│                      ← StrChunk ..0000.7544!14 len:0 [14]
+│                        ← StrChunk ..0000.7514!15 len:0 [15]
+│                          ← StrChunk ..0000.7491!19 len:0 [19]
+│                            ← StrChunk ..0000.7745!1 len:0 [1]
+│                          → StrChunk ..0000.7531!8 len:0 [8]
+│                        → StrChunk ..0000.7529!1 len:0 [1]
+│                          ← StrChunk ..0000.7540!2 len:0 [2]
+│                          → StrChunk ..0000.7510!2 len:0 [2]
+│                      → StrChunk ..0000.7150!1 len:1 [1]
+│                        ← StrChunk ..0000.7288!2 len:0 [2]
+│                          ← StrChunk ..0000.7322!1 len:0 [1]
+│                          → StrChunk ..0000.7174!4 len:0 [4]
+│                        → StrChunk ..0000.7025!28 len:1 [28]
+│                          ← StrChunk ..0000.7126!1 len:0 [1]
+│                          → StrChunk ..0000.6967!1 len:1 { "\n" }
+│        → StrChunk ..0000.16137!1 len:10271 { " " }
+│          ← StrChunk ..0000.8720!59 len:4444 { "ld. We were chatting and she was" … }
+│            ← StrChunk ..0002.10913!2 len:2412 { "of" }
+│              ← StrChunk ..0002.9889!1 len:1527 { " " }
+│                ← StrChunk ..0002.9200!1 len:951 { "I" }
+│                  ← StrChunk ..0000.8337!12 len:405 { "can't do it." }
+│                    ← StrChunk ..0000.8070!160 len:361 { "our lives comes down to a fear o" … }
+│                      ← StrChunk ..0000.7944!34 len:99 { "he courage to be disliked\". In i" … }
+│                        ← StrChunk ..0000.7915!8 len:24 { "called \"" }
+│                          ← StrChunk ..0000.7885!3 len:15 { "ok " }
+│                            ← StrChunk ..0000.7869!12 len:12 { "There's a bo" }
+│                          → StrChunk ..0000.7940!1 len:1 { "T" }
+│                        → StrChunk ..0000.8053!10 len:41 { "basically " }
+│                          ← StrChunk ..0000.7981!14 len:14 { "they say that " }
+│                          → StrChunk ..0000.7995!17 len:17 { "every problem in " }
+│                      → StrChunk ..0000.8364!2 len:102 [2]
+│                        ← StrChunk ..0000.8362!1 len:81 [1]
+│                          ← StrChunk ..0000.8281!33 len:81 { "ts. But the parts which burn awa" … }
+│                            ← StrChunk ..0000.8231!48 len:48 { "getting burned by it over and ov" … }
+│                          → StrChunk ..0000.8314!1 len:0 [1]
+│                        → StrChunk ..0000.8366!1 len:21 { " " }
+│                          ← StrChunk ..0000.8363!1 len:0 [1]
+│                          → StrChunk ..0000.8315!20 len:20 { "are the parts which " }
+│                    → StrChunk ..0000.8029!1 len:32 [1]
+│                      ← StrChunk ..0000.8433!2 len:30 [2]
+│                        ← StrChunk ..0000.8396!2 len:30 { "fa" }
+│                          ← StrChunk ..0000.8390!5 len:7 { "an't " }
+│                            ← StrChunk ..0000.8385!2 len:2 { " C" }
+│                          → StrChunk ..0000.8400!21 len:21 { "ce down those demons." }
+│                        → StrChunk ..0000.8279!1 len:0 [1]
+│                          ← StrChunk ..0000.8421!2 len:0 [2]
+│                          → StrChunk ..0000.8012!15 len:0 [15]
+│                      → StrChunk ..0000.7892!2 len:2 [2]
+│                        ← StrChunk ..0000.7891!1 len:0 [1]
+│                          ← StrChunk ..0000.7909!3 len:0 [3]
+│                          → StrChunk ..0000.7898!1 len:0 [1]
+│                        → StrChunk ..0000.7868!1 len:2 { "\n" }
+│                          ← StrChunk ..0000.7881!1 len:0 [1]
+│                          → StrChunk ..0000.8439!1 len:1 { "\n" }
+│                  → StrChunk ..0002.9507!4 len:545 { " sta" }
+│                    ← StrChunk ..0002.9302!1 len:199 { " " }
+│                      ← StrChunk ..0002.9270!3 len:55 { "ep " }
+│                        ← StrChunk ..0002.9242!19 len:36 { "ece of feedback tha" }
+│                          ← StrChunk ..0002.9239!1 len:11 { "i" }
+│                            ← StrChunk ..0002.9206!10 len:10 { " got one p" }
+│                          → StrChunk ..0002.9262!6 len:6 { "t I ke" }
+│                        → StrChunk ..0002.9281!9 len:16 { "g back to" }
+│                          ← StrChunk ..0002.9274!5 len:5 { "comin" }
+│                          → StrChunk ..0002.9295!2 len:2 { " -" }
+│                      → StrChunk ..0002.9476!2 len:143 { "? " }
+│                        ← StrChunk ..0002.9442!19 len:125 { "h heh is it that ob" }
+│                          ← StrChunk ..0002.9371!67 len:101 { "of not liking or even kind of ha" … }
+│                            ← StrChunk ..0002.9336!34 len:34 { "something along the lines of kin" … }
+│                          → StrChunk ..0002.9469!5 len:5 { "vious" }
+│                        → StrChunk ..0002.9484!11 len:16 { "l the teach" }
+│                          ← StrChunk ..0002.9480!2 len:2 { "Al" }
+│                          → StrChunk ..0002.9501!3 len:3 { "ing" }
+│                    → StrChunk ..0002.9556!147 len:342 { "which is an odd thing to say whe" … }
+│                      ← StrChunk ..0002.9535!6 len:31 { "ely se" }
+│                        ← StrChunk ..0002.9526!7 len:16 { "xquisit" }
+│                          ← StrChunk ..0002.9517!6 len:9 { "were e" }
+│                            ← StrChunk ..0002.9512!3 len:3 { "ff " }
+│                          → StrChunk ..0002.9533!2 len:0 [2]
+│                        → StrChunk ..0002.9545!3 len:9 { "sit" }
+│                          ← StrChunk ..0002.9543!1 len:1 { "n" }
+│                          → StrChunk ..0002.9550!5 len:5 { "ive, " }
+│                      → StrChunk ..0002.9853!9 len:164 { "ding on A" }
+│                        ← StrChunk ..0002.9717!102 len:136 { "n't need the audience, don't nee" … }
+│                          ← StrChunk ..0002.9705!8 len:8 { "nd of do" }
+│                          → StrChunk ..0002.9821!26 len:26 { "st need to see what's tren" }
+│                        → StrChunk ..0002.9869!3 len:19 { "le " }
+│                          ← StrChunk ..0002.9863!4 len:4 { "udib" }
+│                          → StrChunk ..0002.9876!12 len:12 { "- good GRIEF" }
+│                → StrChunk ..0002.10581!26 len:575 { "This seems to be the oppos" }
+│                  ← StrChunk ..0002.10099!2 len:359 { "??" }
+│                    ← StrChunk ..0002.9969!4 len:141 { " lim" }
+│                      ← StrChunk ..0002.9937!6 len:53 { " colle" }
+│                        ← StrChunk ..0002.9918!1 len:27 { "t" }
+│                          ← StrChunk ..0002.9902!14 len:15 { "ou have the en" }
+│                            ← StrChunk ..0002.9895!1 len:1 { "y" }
+│                          → StrChunk ..0002.9925!11 len:11 { "ire world's" }
+│                        → StrChunk ..0002.9955!5 len:20 { "ords " }
+│                          ← StrChunk ..0002.9944!10 len:10 { "ction of w" }
+│                          → StrChunk ..0002.9963!5 len:5 { "and a" }
+│                      → StrChunk ..0002.10013!50 len:84 { "you are reading THAT celebrity g" … }
+│                        ← StrChunk ..0002.9990!1 len:23 { " " }
+│                          ← StrChunk ..0002.9981!7 len:12 { "time on" }
+│                            ← StrChunk ..0002.9975!5 len:5 { "ited " }
+│                          → StrChunk ..0002.10001!10 len:10 { "earth and " }
+│                        → StrChunk ..0002.10071!2 len:11 { "Re" }
+│                          ← StrChunk ..0002.10066!4 len:4 { "??? " }
+│                          → StrChunk ..0002.10092!5 len:5 { "ally?" }
+│                    → StrChunk ..0002.10388!14 len:216 { "row, chanting " }
+│                      ← StrChunk ..0002.10306!1 len:120 { "b" }
+│                        ← StrChunk ..0002.10283!2 len:57 { "* " }
+│                          ← StrChunk ..0002.10237!41 len:43 { "I had this experience of playing" … }
+│                            ← StrChunk ..0002.10109!2 len:2 { ") " }
+│                          → StrChunk ..0002.10291!12 len:12 { "Guitar Hero " }
+│                        → StrChunk ..0002.10320!4 len:62 { "in t" }
+│                          ← StrChunk ..0002.10312!4 len:4 { "ack " }
+│                          → StrChunk ..0002.10333!54 len:54 { "he day and there were all these " … }
+│                      → StrChunk ..0002.10429!41 len:82 { "songs and I just wanted to tell " … }
+│                        ← StrChunk ..0002.10408!10 len:16 { "nd loving " }
+│                          ← StrChunk ..0002.10403!1 len:1 { "a" }
+│                          → StrChunk ..0002.10422!5 len:5 { "your " }
+│                        → StrChunk ..0002.10491!1 len:25 { "a" }
+│                          ← StrChunk ..0002.10481!9 len:9 { "alm down " }
+│                          → StrChunk ..0002.10499!15 len:15 { "nd just chill. " }
+│                  → StrChunk ..0002.10748!30 len:190 { "strong drive to be loved by st" }
+│                    ← StrChunk ..0002.10691!1 len:71 { "f" }
+│                      ← StrChunk ..0002.10651!2 len:40 { " l" }
+│                        ← StrChunk ..0002.10626!5 len:13 { "what " }
+│                          ← StrChunk ..0002.10620!3 len:7 { "to " }
+│                            ← StrChunk ..0002.10611!4 len:4 { "ite " }
+│                          → StrChunk ..0002.10646!1 len:1 { "a" }
+│                        → StrChunk ..0002.10674!3 len:25 { "ies" }
+│                          ← StrChunk ..0002.10658!14 len:14 { "ot of celebrit" }
+│                          → StrChunk ..0002.10680!8 len:8 { " and per" }
+│                      → StrChunk ..0002.10721!1 len:30 { "n" }
+│                        ← StrChunk ..0002.10706!6 len:15 { "ave - " }
+│                          ← StrChunk ..0002.10695!8 len:8 { "ormers h" }
+│                          → StrChunk ..0002.10714!1 len:1 { "a" }
+│                        → StrChunk ..0002.10731!5 len:14 { "ratio" }
+│                          ← StrChunk ..0002.10727!3 len:3 { " ir" }
+│                          → StrChunk ..0002.10738!6 len:6 { "nally " }
+│                    → StrChunk ..0002.10839!3 len:89 { "ld " }
+│                      ← StrChunk ..0002.10814!2 len:44 { "f " }
+│                        ← StrChunk ..0002.10790!11 len:25 { " I think I " }
+│                          ← StrChunk ..0002.10784!4 len:8 { "ers." }
+│                            ← StrChunk ..0002.10779!4 len:4 { "rang" }
+│                          → StrChunk ..0002.10807!6 len:6 { "kind o" }
+│                        → StrChunk ..0002.10829!4 len:17 { " own" }
+│                          ← StrChunk ..0002.10819!9 len:9 { "create my" }
+│                          → StrChunk ..0002.10834!4 len:4 { " wor" }
+│                      → StrChunk ..0002.10867!3 len:42 { "uti" }
+│                        ← StrChunk ..0002.10857!6 len:10 { "at's b" }
+│                          ← StrChunk ..0002.10854!2 len:2 { "th" }
+│                          → StrChunk ..0002.10864!2 len:2 { "ea" }
+│                        → StrChunk ..0002.10903!1 len:29 { "f" }
+│                          ← StrChunk ..0002.10872!24 len:24 { "ful and adventurous and " }
+│                          → StrChunk ..0002.10908!4 len:4 { "ull " }
+│              → StrChunk ..0002.12080!8 len:883 { "ol is wh" }
+│                ← StrChunk ..0002.11616!74 len:565 { "want to share it, unless of cour" … }
+│                  ← StrChunk ..0002.11308!2 len:304 { "I " }
+│                    ← StrChunk ..0002.11034!40 len:104 { "teresting, and then the spell is" … }
+│                      ← StrChunk ..0002.10927!8 len:25 { "ery and " }
+│                        ← StrChunk ..0002.10951!1 len:5 { "s" }
+│                          ← StrChunk ..0002.10921!1 len:3 { "y" }
+│                            ← StrChunk ..0002.10916!2 len:2 { " m" }
+│                          → StrChunk ..0002.10922!1 len:1 { "t" }
+│                        → StrChunk ..0002.11017!8 len:12 { "ndlessly" }
+│                          ← StrChunk ..0002.11015!1 len:1 { "e" }
+│                          → StrChunk ..0002.11028!3 len:3 { " in" }
+│                      → StrChunk ..0002.11280!2 len:39 { "s " }
+│                        ← StrChunk ..0002.11248!16 len:26 { "and the dream fa" }
+│                          ← StrChunk ..0002.11240!1 len:8 { " " }
+│                            ← StrChunk ..0002.11232!7 len:7 { "quickly" }
+│                          → StrChunk ..0002.11276!2 len:2 { "de" }
+│                        → StrChunk ..0002.11291!3 len:11 { "s s" }
+│                          ← StrChunk ..0002.11285!1 len:1 { "a" }
+│                          → StrChunk ..0002.11297!7 len:7 { "oon as " }
+│                    → StrChunk ..0002.11435!3 len:198 { "kin" }
+│                      ← StrChunk ..0002.11338!71 len:91 { "n it to someone. \"Oh, that's jus" … }
+│                        ← StrChunk ..0002.11327!5 len:13 { "o exp" }
+│                          ← StrChunk ..0002.11318!3 len:5 { "y t" }
+│                            ← StrChunk ..0002.11311!2 len:2 { "tr" }
+│                          → StrChunk ..0002.11333!3 len:3 { "lai" }
+│                        → StrChunk ..0002.11423!5 len:7 { "nd it" }
+│                          ← StrChunk ..0002.11417!1 len:1 { "A" }
+│                          → StrChunk ..0002.11430!1 len:1 { " " }
+│                      → StrChunk ..0002.11522!4 len:104 { "dour" }
+│                        ← StrChunk ..0002.11476!10 len:39 { "mines the " }
+│                          ← StrChunk ..0002.11450!24 len:24 { "d of feels like it under" }
+│                          → StrChunk ..0002.11514!5 len:5 { "splen" }
+│                        → StrChunk ..0002.11554!35 len:61 { " quickly dismisses it as just an" … }
+│                          ← StrChunk ..0002.11550!1 len:1 { "," }
+│                          → StrChunk ..0002.11590!25 len:25 { "er thing. I don't really " }
+│                  → StrChunk ..0002.11898!9 len:187 { "uld want " }
+│                    ← StrChunk ..0002.11800!2 len:113 { "Di" }
+│                      ← StrChunk ..0002.11755!1 len:67 { "." }
+│                        ← StrChunk ..0002.11743!12 len:55 { "ick the wall" }
+│                          ← StrChunk ..0002.11735!2 len:42 { " l" }
+│                            ← StrChunk ..0002.11694!40 len:40 { "view, leap into it, look around," … }
+│                          → StrChunk ..0002.12013!1 len:1 { "s" }
+│                        → StrChunk ..0002.11780!1 len:11 { "#" }
+│                          ← StrChunk ..0002.11772!1 len:1 { " " }
+│                          → StrChunk ..0002.11785!9 len:9 { "Introvert" }
+│                      → StrChunk ..0002.11859!4 len:44 { "dema" }
+│                        ← StrChunk ..0002.11829!2 len:16 { "I " }
+│                          ← StrChunk ..0002.11811!3 len:8 { "s. " }
+│                            ← StrChunk ..0002.11805!5 len:5 { "lemma" }
+│                          → StrChunk ..0002.11835!6 len:6 { "don't " }
+│                        → StrChunk ..0002.11870!7 len:24 { "you lik" }
+│                          ← StrChunk ..0002.11866!3 len:3 { "nd " }
+│                          → StrChunk ..0002.11882!14 len:14 { "e it. But I wo" }
+│                    → StrChunk ..0002.12062!1 len:65 { "h" }
+│                      ← StrChunk ..0002.11968!3 len:52 { " it" }
+│                        ← StrChunk ..0002.11930!9 len:41 { "t it is b" }
+│                          ← StrChunk ..0002.11921!7 len:15 { "now wha" }
+│                            ← StrChunk ..0002.11908!8 len:8 { "you to k" }
+│                          → StrChunk ..0002.11950!17 len:17 { "efore you dismiss" }
+│                        → StrChunk ..0002.12050!1 len:8 { "S" }
+│                          ← StrChunk ..0002.11972!2 len:2 { ". " }
+│                          → StrChunk ..0002.12056!5 len:5 { "o yea" }
+│                      → StrChunk ..0002.12071!1 len:12 { "o" }
+│                        ← StrChunk ..0002.12098!1 len:4 { "l" }
+│                          ← StrChunk ..0002.12066!3 len:3 { ", c" }
+│                          → StrChunk ..0002.12069!2 len:0 [2]
+│                        → StrChunk ..0002.12099!1 len:7 [1]
+│                          ← StrChunk ..0002.12100!1 len:1 { "w" }
+│                          → StrChunk ..0002.12072!6 len:6 { "n scho" }
+│                → StrChunk ..0002.10075!4 len:310 [4]
+│                  ← StrChunk ..0002.11440!3 len:98 [3]
+│                    ← StrChunk ..0002.12186!9 len:98 { " (and may" }
+│                      ← StrChunk ..0002.12157!2 len:38 { "ou" }
+│                        ← StrChunk ..0002.12128!10 len:23 { "learnt tha" }
+│                          ← StrChunk ..0002.12123!2 len:6 { "I " }
+│                            ← StrChunk ..0002.12089!4 len:4 { "ere " }
+│                          → StrChunk ..0002.12147!7 len:7 { "t, if y" }
+│                        → StrChunk ..0002.12170!8 len:13 { "re sensi" }
+│                          ← StrChunk ..0002.12164!1 len:1 { "'" }
+│                          → StrChunk ..0002.12180!4 len:4 { "tive" }
+│                      → StrChunk ..0002.11877!1 len:51 [1]
+│                        ← StrChunk ..0002.12159!1 len:51 [1]
+│                          ← StrChunk ..0002.12195!2 len:51 [2]
+│                            ← StrChunk ..0002.12199!51 len:51 { "be even if you're not), this is " … }
+│                          → StrChunk ..0002.12138!3 len:0 [3]
+│                        → StrChunk ..0002.11690!2 len:0 [2]
+│                          ← StrChunk ..0002.11844!1 len:0 [1]
+│                          → StrChunk ..0002.11448!1 len:0 [1]
+│                    → StrChunk ..0002.10870!1 len:0 [1]
+│                      ← StrChunk ..0002.11074!15 len:0 [15]
+│                        ← StrChunk ..0002.11267!4 len:0 [4]
+│                          ← StrChunk ..0002.11264!1 len:0 [1]
+│                            ← StrChunk ..0002.11304!1 len:0 [1]
+│                          → StrChunk ..0002.11265!1 len:0 [1]
+│                        → StrChunk ..0002.11089!5 len:0 [5]
+│                          ← StrChunk ..0002.11204!5 len:0 [5]
+│                          → StrChunk ..0002.11099!4 len:0 [4]
+│                      → StrChunk ..0002.10472!2 len:0 [2]
+│                        ← StrChunk ..0002.10568!5 len:0 [5]
+│                          ← StrChunk ..0002.10607!2 len:0 [2]
+│                          → StrChunk ..0002.10470!1 len:0 [1]
+│                        → StrChunk ..0002.10278!1 len:0 [1]
+│                          ← StrChunk ..0002.10326!1 len:0 [1]
+│                          → StrChunk ..0002.10101!1 len:0 [1]
+│                  → StrChunk ..0002.9182!2 len:212 { "\n\n" }
+│                    ← StrChunk ..0002.9313!2 len:0 [2]
+│                      ← StrChunk ..0002.9541!1 len:0 [1]
+│                        ← StrChunk ..0002.9713!2 len:0 [2]
+│                          ← StrChunk ..0002.9847!2 len:0 [2]
+│                            ← StrChunk ..0002.9991!1 len:0 [1]
+│                          → StrChunk ..0002.9703!1 len:0 [1]
+│                        → StrChunk ..0002.9461!1 len:0 [1]
+│                          ← StrChunk ..0002.9495!3 len:0 [3]
+│                          → StrChunk ..0002.9438!2 len:0 [2]
+│                      → StrChunk ..0002.9315!1 len:0 [1]
+│                        ← StrChunk ..0002.9321!1 len:0 [1]
+│                          ← StrChunk ..0002.9317!2 len:0 [2]
+│                          → StrChunk ..0002.9329!1 len:0 [1]
+│                        → StrChunk ..0002.9216!2 len:0 [2]
+│                          ← StrChunk ..0002.9240!1 len:0 [1]
+│                          → StrChunk ..0002.9220!6 len:0 [6]
+│                    → StrChunk ..0000.8623!4 len:210 { "was " }
+│                      ← StrChunk ..0000.8543!3 len:143 { "And" }
+│                        ← StrChunk ..0000.8528!2 len:75 { "tr" }
+│                          ← StrChunk ..0000.8454!62 len:67 { "is the thing. It was traumatic. " … }
+│                            ← StrChunk ..0000.8441!5 len:5 { "This " }
+│                          → StrChunk ..0000.8533!6 len:6 { "auma. " }
+│                        → StrChunk ..0000.8576!1 len:65 { "I" }
+│                          ← StrChunk ..0000.8550!24 len:24 { ", we're so much looser. " }
+│                          → StrChunk ..0000.8581!40 len:40 { " can't describe the looseness - " … }
+│                      → StrChunk ..0000.8700!2 len:63 { "e " }
+│                        ← StrChunk ..0000.8649!29 len:51 { "a lift earlier today and this" }
+│                          ← StrChunk ..0000.8629!3 len:3 { "in " }
+│                          → StrChunk ..0000.8680!19 len:19 { " girl got in - mayb" }
+│                        → StrChunk ..0000.8710!5 len:10 { " year" }
+│                          ← StrChunk ..0000.8706!2 len:2 { "28" }
+│                          → StrChunk ..0000.8716!3 len:3 { "s o" }
+│            → StrChunk ..0000.10163!7 len:1973 { "therapy" }
+│              ← StrChunk ..0000.9941!1 len:881 { " " }
+│                ← StrChunk ..0000.8446!2 len:704 [2]
+│                  ← StrChunk ..0000.9317!1 len:500 { " " }
+│                    ← StrChunk ..0000.8907!113 len:486 { "did she think of us??\". Now, I j" … }
+│                      ← StrChunk ..0000.8844!44 len:115 { "go I would have felt awful and s" … }
+│                        ← StrChunk ..0000.8828!2 len:58 [2]
+│                          ← StrChunk ..0000.8842!2 len:47 { "A " }
+│                            ← StrChunk ..0000.8783!45 len:45 { "to our conversation. It was kind" … }
+│                          → StrChunk ..0000.8830!11 len:11 { "few years a" }
+│                        → StrChunk ..0000.8888!5 len:13 { "oh no" }
+│                          ← StrChunk ..0000.8893!1 len:1 { "\"" }
+│                          → StrChunk ..0000.8894!7 len:7 { ", what " }
+│                      → StrChunk ..0000.9271!13 len:258 { "uality thats " }
+│                        ← StrChunk ..0000.9223!11 len:218 { "after that." }
+│                          ← StrChunk ..0000.9185!34 len:184 { "There's nothing I'm holding on t" … }
+│                            ← StrChunk ..0000.9024!150 len:150 { "cknowledge the conversation. She" … }
+│                          → StrChunk ..0000.9240!23 len:23 { " I think there's this q" }
+│                        → StrChunk ..0000.9366!1 len:27 { "I" }
+│                          ← StrChunk ..0000.9286!26 len:26 { "hard to name where before " }
+│                          → StrChunk ..0000.9312!5 len:0 [5]
+│                    → StrChunk ..0000.9020!2 len:13 [2]
+│                      ← StrChunk ..0000.9284!1 len:13 [1]
+│                        ← StrChunk ..0000.9318!8 len:13 { "clowning" }
+│                          ← StrChunk ..0000.9367!1 len:4 { " " }
+│                            ← StrChunk ..0000.9368!3 len:3 { "did" }
+│                          → StrChunk ..0000.9334!1 len:1 { "," }
+│                        → StrChunk ..0000.9219!2 len:0 [2]
+│                          ← StrChunk ..0000.9263!7 len:0 [7]
+│                          → StrChunk ..0000.9174!8 len:0 [8]
+│                      → StrChunk ..0000.8639!3 len:0 [3]
+│                        ← StrChunk ..0000.8779!2 len:0 [2]
+│                          ← StrChunk ..0000.8901!5 len:0 [5]
+│                          → StrChunk ..0000.8632!4 len:0 [4]
+│                        → StrChunk ..0000.8520!1 len:0 [1]
+│                          ← StrChunk ..0000.8546!1 len:0 [1]
+│                          → StrChunk ..0000.8450!2 len:0 [2]
+│                  → StrChunk ..0000.9907!2 len:204 { "to" }
+│                    ← StrChunk ..0000.9881!1 len:166 { " " }
+│                      ← StrChunk ..0000.9491!35 len:144 { "f I thought about it too much I'" … }
+│                        ← StrChunk ..0000.9411!29 len:75 { "found it too overwhelming to " }
+│                          ← StrChunk ..0000.9326!3 len:3 { " I " }
+│                            ← StrChunk ..0000.8440!1 len:0 [1]
+│                          → StrChunk ..0000.9442!43 len:43 { "really be present with how peopl" … }
+│                        → StrChunk ..0000.9704!1 len:34 { " " }
+│                          ← StrChunk ..0000.9533!31 len:31 { "ant to run away and dissociate." }
+│                          → StrChunk ..0000.9883!2 len:2 { "It" }
+│                      → StrChunk ..0000.9895!3 len:21 { "too" }
+│                        ← StrChunk ..0000.9890!4 len:9 { "just" }
+│                          ← StrChunk ..0000.9885!1 len:4 { " " }
+│                            ← StrChunk ..0000.9886!3 len:3 { "was" }
+│                          → StrChunk ..0000.9889!1 len:1 { " " }
+│                        → StrChunk ..0000.9899!7 len:9 { "painful" }
+│                          ← StrChunk ..0000.9894!1 len:1 { " " }
+│                          → StrChunk ..0000.9898!1 len:1 { " " }
+│                    → StrChunk ..0000.9920!1 len:36 { " " }
+│                      ← StrChunk ..0000.9914!1 len:15 { " " }
+│                        ← StrChunk ..0000.9909!1 len:8 { " " }
+│                          ← StrChunk ..0000.9910!4 len:5 { "face" }
+│                            ← StrChunk ..0000.9906!1 len:1 { " " }
+│                          → StrChunk ..0000.9915!2 len:2 { "up" }
+│                        → StrChunk ..0000.9917!1 len:6 { " " }
+│                          ← StrChunk ..0000.9918!2 len:2 { "to" }
+│                          → StrChunk ..0000.9921!3 len:3 { "the" }
+│                      → StrChunk ..0000.9932!1 len:20 { " " }
+│                        ← StrChunk ..0000.9924!1 len:12 { " " }
+│                          ← StrChunk ..0000.9925!7 len:7 { "reality" }
+│                          → StrChunk ..0000.9933!4 len:4 { "that" }
+│                        → StrChunk ..0000.9937!1 len:7 { " " }
+│                          ← StrChunk ..0000.9938!3 len:3 { "I'm" }
+│                          → StrChunk ..0000.9942!3 len:3 { "not" }
+│                → StrChunk ..0000.10066!1 len:176 { " " }
+│                  ← StrChunk ..0000.9995!1 len:87 { " " }
+│                    ← StrChunk ..0000.9971!5 len:53 { "weak," }
+│                      ← StrChunk ..0000.9959!7 len:25 { "flawed," }
+│                        ← StrChunk ..0000.9955!3 len:13 { "I'm" }
+│                          ← StrChunk ..0000.9945!1 len:9 { " " }
+│                            ← StrChunk ..0000.9946!8 len:8 { "perfect." }
+│                          → StrChunk ..0000.9954!1 len:1 { " " }
+│                        → StrChunk ..0000.9967!3 len:5 { "and" }
+│                          ← StrChunk ..0000.9958!1 len:1 { " " }
+│                          → StrChunk ..0000.9966!1 len:1 { " " }
+│                      → StrChunk ..0000.9980!1 len:23 { " " }
+│                        ← StrChunk ..0000.9976!1 len:11 { " " }
+│                          ← StrChunk ..0000.9977!3 len:4 { "and" }
+│                            ← StrChunk ..0000.9970!1 len:1 { " " }
+│                          → StrChunk ..0000.9981!6 len:6 { "deeply" }
+│                        → StrChunk ..0000.9987!1 len:11 { " " }
+│                          ← StrChunk ..0000.9988!7 len:7 { "unfunny" }
+│                          → StrChunk ..0000.9996!3 len:3 { "and" }
+│                    → StrChunk ..0000.10041!10 len:33 { "disgusting" }
+│                      ← StrChunk ..0000.10013!4 len:8 [4]
+│                        ← StrChunk ..0000.10000!12 len:4 [12]
+│                          ← StrChunk ..0000.10034!3 len:4 { "ind" }
+│                            ← StrChunk ..0000.10032!1 len:1 { "k" }
+│                          → StrChunk ..0000.9999!1 len:0 [1]
+│                        → StrChunk ..0000.10038!2 len:4 { "of" }
+│                          ← StrChunk ..0000.10012!1 len:1 { " " }
+│                          → StrChunk ..0000.10037!1 len:1 { " " }
+│                      → StrChunk ..0000.10055!1 len:15 { " " }
+│                        ← StrChunk ..0000.10040!1 len:4 { " " }
+│                          ← StrChunk ..0000.10051!1 len:0 [1]
+│                          → StrChunk ..0000.10056!3 len:3 { "and" }
+│                        → StrChunk ..0000.10059!1 len:10 { " " }
+│                          ← StrChunk ..0000.10060!6 len:6 { "weird." }
+│                          → StrChunk ..0000.10067!3 len:3 { "And" }
+│                  → StrChunk ..0000.10114!4 len:88 { "that" }
+│                    ← StrChunk ..0000.10090!3 len:43 { "see" }
+│                      ← StrChunk ..0000.10082!4 len:19 { "bear" }
+│                        ← StrChunk ..0000.10073!8 len:11 { "couldn't" }
+│                          ← StrChunk ..0000.10070!1 len:2 { " " }
+│                            ← StrChunk ..0000.10071!1 len:1 { "I" }
+│                          → StrChunk ..0000.10072!1 len:1 { " " }
+│                        → StrChunk ..0000.10087!2 len:4 { "to" }
+│                          ← StrChunk ..0000.10081!1 len:1 { " " }
+│                          → StrChunk ..0000.10086!1 len:1 { " " }
+│                      → StrChunk ..0000.10101!9 len:21 { "reflected" }
+│                        ← StrChunk ..0000.10094!6 len:8 { "myself" }
+│                          ← StrChunk ..0000.10089!1 len:1 { " " }
+│                          → StrChunk ..0000.10093!1 len:1 { " " }
+│                        → StrChunk ..0000.10111!2 len:4 { "in" }
+│                          ← StrChunk ..0000.10100!1 len:1 { " " }
+│                          → StrChunk ..0000.10110!1 len:1 { " " }
+│                    → StrChunk ..0000.10139!1 len:41 [1]
+│                      ← StrChunk ..0000.10125!1 len:22 { " " }
+│                        ← StrChunk ..0000.10118!1 len:16 { " " }
+│                          ← StrChunk ..0000.10119!6 len:7 { "light." }
+│                            ← StrChunk ..0000.10113!1 len:1 { " " }
+│                          → StrChunk ..0000.10126!8 len:8 { "Clowning" }
+│                        → StrChunk ..0000.10134!1 len:5 { " " }
+│                          ← StrChunk ..0000.10135!3 len:3 { "was" }
+│                          → StrChunk ..0000.10143!1 len:1 { "4" }
+│                      → StrChunk ..0000.10151!2 len:19 { "of" }
+│                        ← StrChunk ..0000.10145!5 len:7 { "weeks" }
+│                          ← StrChunk ..0000.10138!1 len:1 { " " }
+│                          → StrChunk ..0000.10144!1 len:1 { " " }
+│                        → StrChunk ..0000.10154!8 len:10 { "exposure" }
+│                          ← StrChunk ..0000.10150!1 len:1 { " " }
+│                          → StrChunk ..0000.10153!1 len:1 { " " }
+│              → StrChunk ..0000.10788!4 len:1085 [4]
+│                ← StrChunk ..0000.9866!7 len:664 { "ull of " }
+│                  ← StrChunk ..0000.10221!2 len:154 { "we" }
+│                    ← StrChunk ..0000.10173!1 len:46 { " " }
+│                      ← StrChunk ..0000.10174!1 len:26 { "h" }
+│                        ← StrChunk ..0000.10170!1 len:21 { " " }
+│                          ← StrChunk ..0000.10171!2 len:3 { "of" }
+│                            ← StrChunk ..0000.10162!1 len:1 { " " }
+│                          → StrChunk ..0000.10192!17 len:17 { "being present wit" }
+│                        → StrChunk ..0000.10209!1 len:4 { "h" }
+│                          ← StrChunk ..0000.10210!1 len:1 { " " }
+│                          → StrChunk ..0000.10175!2 len:2 { "ow" }
+│                      → StrChunk ..0000.10188!4 len:19 { "are." }
+│                        ← StrChunk ..0000.10185!2 len:10 { "we" }
+│                          ← StrChunk ..0000.10177!1 len:7 { " " }
+│                            ← StrChunk ..0000.10178!6 len:6 { "boring" }
+│                          → StrChunk ..0000.10184!1 len:1 { " " }
+│                        → StrChunk ..0000.10212!3 len:5 { "How" }
+│                          ← StrChunk ..0000.10187!1 len:1 { " " }
+│                          → StrChunk ..0000.10211!1 len:1 { " " }
+│                    → StrChunk ..0000.10052!1 len:106 [1]
+│                      ← StrChunk ..0000.10223!1 len:15 { " " }
+│                        ← StrChunk ..0000.10219!1 len:5 { " " }
+│                          ← StrChunk ..0000.10215!1 len:0 [1]
+│                            ← StrChunk ..0000.10216!3 len:0 [3]
+│                          → StrChunk ..0000.10224!4 len:4 { "have" }
+│                        → StrChunk ..0000.10228!1 len:9 { " " }
+│                          ← StrChunk ..0000.10229!8 len:8 { "nothing." }
+│                          → StrChunk ..0000.10140!1 len:0 [1]
+│                      → StrChunk ..0000.9736!4 len:91 { "ter " }
+│                        ← StrChunk ..0000.9718!1 len:11 { "a" }
+│                          ← StrChunk ..0000.9705!9 len:9 { "And now, " }
+│                          → StrChunk ..0000.9734!1 len:1 { "f" }
+│                        → StrChunk ..0000.9782!33 len:76 { "truth of that perspective shoved" … }
+│                          ← StrChunk ..0000.9767!11 len:11 { "having the " }
+│                          → StrChunk ..0000.9828!32 len:32 { "in my face, in front of a room f" }
+│                  → StrChunk ..0000.10565!1 len:503 { " " }
+│                    ← StrChunk ..0000.10456!81 len:219 { "so is everything else. The worst" … }
+│                      ← StrChunk ..0000.10360!7 len:122 { "ething " }
+│                        ← StrChunk ..0000.10304!4 len:45 { "no, " }
+│                          ← StrChunk ..0000.10266!36 len:38 { "r peers over and over again... I" … }
+│                            ← StrChunk ..0000.10263!2 len:2 { "ou" }
+│                          → StrChunk ..0000.10356!3 len:3 { "som" }
+│                        → StrChunk ..0000.10442!3 len:70 { " - " }
+│                          ← StrChunk ..0000.10373!63 len:63 { "feels lighter. Being a fool in f" … }
+│                          → StrChunk ..0000.10446!4 len:4 { "but " }
+│                      → StrChunk ..0000.10551!1 len:16 { " " }
+│                        ← StrChunk ..0000.10546!1 len:4 [1]
+│                          ← StrChunk ..0000.10547!4 len:4 [4]
+│                            ← StrChunk ..0000.10555!4 len:4 { "Want" }
+│                          → StrChunk ..0000.10552!2 len:0 [2]
+│                        → StrChunk ..0000.10559!1 len:11 { " " }
+│                          ← StrChunk ..0000.10560!5 len:5 { "their" }
+│                          → StrChunk ..0000.10566!5 len:5 { "money" }
+│                    → StrChunk ..0000.10875!2 len:283 { ". " }
+│                      ← StrChunk ..0000.10601!150 len:263 { "And the best thing that happens " … }
+│                        ← StrChunk ..0000.10541!3 len:10 { "So?" }
+│                          ← StrChunk ..0000.10571!1 len:6 { " " }
+│                            ← StrChunk ..0000.10572!5 len:5 { "back?" }
+│                          → StrChunk ..0000.10595!1 len:1 { " " }
+│                        → StrChunk ..0000.10757!31 len:103 { "t rejection, something. We know" }
+│                          ← StrChunk ..0000.10752!2 len:2 { "no" }
+│                          → StrChunk ..0000.10796!70 len:70 { ". We can smell that desperation " … }
+│                      → StrChunk ..0000.10880!6 len:18 [6]
+│                        ← StrChunk ..0000.10895!17 len:18 { "ts disconnecting." }
+│                          ← StrChunk ..0000.10890!1 len:1 { "I" }
+│                          → StrChunk ..0000.10877!1 len:0 [1]
+│                        → StrChunk ..0000.10866!1 len:0 [1]
+│                          ← StrChunk ..0000.10873!1 len:0 [1]
+│                          → StrChunk ..0000.10870!1 len:0 [1]
+│                → StrChunk ..0000.15962!1 len:421 { " " }
+│                  ← StrChunk ..0000.10912!1 len:324 { "\n" }
+│                    ← StrChunk ..0000.9860!3 len:1 [3]
+│                      ← StrChunk ..0000.10367!3 len:0 [3]
+│                        ← StrChunk ..0000.10450!3 len:0 [3]
+│                          ← StrChunk ..0000.10537!2 len:0 [2]
+│                            ← StrChunk ..0000.10544!1 len:0 [1]
+│                          → StrChunk ..0000.10436!3 len:0 [3]
+│                        → StrChunk ..0000.10302!1 len:0 [1]
+│                          ← StrChunk ..0000.10308!33 len:0 [33]
+│                          → StrChunk ..0000.9873!6 len:0 [6]
+│                      → StrChunk ..0000.9720!3 len:1 [3]
+│                        ← StrChunk ..0000.9719!1 len:0 [1]
+│                          ← StrChunk ..0000.9740!6 len:0 [6]
+│                            ← StrChunk ..0000.9815!12 len:0 [12]
+│                          → StrChunk ..0000.9727!2 len:0 [2]
+│                        → StrChunk ..0000.9485!5 len:1 [5]
+│                          ← StrChunk ..0000.9714!2 len:0 [2]
+│                          → StrChunk ..0002.9071!1 len:1 { "\n" }
+│                    → StrChunk ..0000.15786!1 len:322 [1]
+│                      ← StrChunk ..0000.15732!1 len:195 { "B" }
+│                        ← StrChunk ..0000.15629!47 len:135 { "what a lot of the feedback was l" … }
+│                          ← StrChunk ..0000.15614!13 len:75 { "ecause thats " }
+│                            ← StrChunk ..0000.15539!62 len:62 { "These words I'm using? They're f" … }
+│                          → StrChunk ..0000.15680!13 len:13 { "t was about. " }
+│                        → StrChunk ..0000.15778!8 len:59 { ". Get of" }
+│                          ← StrChunk ..0000.15734!43 len:43 { "asically different versions of \"" … }
+│                          → StrChunk ..0000.15788!8 len:8 { "f stage." }
+│                      → StrChunk ..0000.15852!3 len:127 { "as " }
+│                        ← StrChunk ..0000.15796!43 len:47 { ". On one of the first days I was" … }
+│                          ← StrChunk ..0000.15777!1 len:1 { "\"" }
+│                          → StrChunk ..0000.15847!3 len:3 { "I w" }
+│                        → StrChunk ..0000.15891!60 len:77 { "ractive on stage that the teache" … }
+│                          ← StrChunk ..0000.15872!15 len:15 { "so deeply unatt" }
+│                          → StrChunk ..0000.15963!2 len:2 { "of" }
+│                  → StrChunk ..0000.16096!4 len:96 { "that" }
+│                    ← StrChunk ..0000.16074!7 len:51 { "Someone" }
+│                      ← StrChunk ..0000.15979!3 len:29 { "sex" }
+│                        ← StrChunk ..0000.15970!8 len:13 { "opposite" }
+│                          ← StrChunk ..0000.15965!1 len:4 { " " }
+│                            ← StrChunk ..0000.15966!3 len:3 { "the" }
+│                          → StrChunk ..0000.15969!1 len:1 { " " }
+│                        → StrChunk ..0000.15951!11 len:13 { "become gay." }
+│                          ← StrChunk ..0000.15978!1 len:1 { " " }
+│                          → StrChunk ..0000.15982!1 len:1 { " " }
+│                      → StrChunk ..0000.16087!3 len:15 { "was" }
+│                        ← StrChunk ..0000.16082!4 len:6 { "else" }
+│                          ← StrChunk ..0000.16071!1 len:1 { " " }
+│                          → StrChunk ..0000.16081!1 len:1 { " " }
+│                        → StrChunk ..0000.16091!4 len:6 { "told" }
+│                          ← StrChunk ..0000.16086!1 len:1 { " " }
+│                          → StrChunk ..0000.16090!1 len:1 { " " }
+│                    → StrChunk ..0000.16119!1 len:41 { " " }
+│                      ← StrChunk ..0000.16104!1 len:23 { " " }
+│                        ← StrChunk ..0000.16100!1 len:12 { " " }
+│                          ← StrChunk ..0000.16101!3 len:4 { "the" }
+│                            ← StrChunk ..0000.16095!1 len:1 { " " }
+│                          → StrChunk ..0000.16105!7 len:7 { "teacher" }
+│                        → StrChunk ..0000.16112!1 len:10 { " " }
+│                          ← StrChunk ..0000.16113!6 len:6 { "wishes" }
+│                          → StrChunk ..0000.16120!3 len:3 { "she" }
+│                      → StrChunk ..0000.16128!1 len:17 { " " }
+│                        ← StrChunk ..0000.16123!1 len:7 { " " }
+│                          ← StrChunk ..0000.16124!4 len:4 { "died" }
+│                          → StrChunk ..0000.16129!2 len:2 { "by" }
+│                        → StrChunk ..0000.16131!1 len:9 { " " }
+│                          ← StrChunk ..0000.16132!5 len:5 { "being" }
+│                          → StrChunk ..0000.16138!3 len:3 { "put" }
+│          → StrChunk ..0000.13221!28 len:5826 { "And being yourself. And play" }
+│            ← StrChunk ..0000.13300!1 len:2421 [1]
+│              ← StrChunk ..0000.16474!1 len:848 { " " }
+│                ← StrChunk ..0000.16239!2 len:240 [2]
+│                  ← StrChunk ..0000.16190!4 len:78 { "full" }
+│                    ← StrChunk ..0000.16159!3 len:35 { "bin" }
+│                      ← StrChunk ..0000.16147!3 len:17 { "big" }
+│                        ← StrChunk ..0000.16145!1 len:5 { "a" }
+│                          ← StrChunk ..0000.16141!1 len:3 { " " }
+│                            ← StrChunk ..0000.16142!2 len:2 { "in" }
+│                          → StrChunk ..0000.16144!1 len:1 { " " }
+│                        → StrChunk ..0000.16151!7 len:9 { "rubbish" }
+│                          ← StrChunk ..0000.16146!1 len:1 { " " }
+│                          → StrChunk ..0000.16150!1 len:1 { " " }
+│                      → StrChunk ..0000.16162!1 len:15 { " " }
+│                        ← StrChunk ..0000.16169!3 len:8 { "ash" }
+│                          ← StrChunk ..0000.16163!4 len:5 { "(\"tr" }
+│                            ← StrChunk ..0000.16158!1 len:1 { " " }
+│                          → StrChunk ..0000.16167!1 len:0 [1]
+│                        → StrChunk ..0000.16173!1 len:6 [1]
+│                          ← StrChunk ..0000.16175!5 len:5 { "can\")" }
+│                          → StrChunk ..0000.16172!1 len:1 { " " }
+│                    → StrChunk ..0000.16211!5 len:39 { "until" }
+│                      ← StrChunk ..0000.16198!7 len:17 { "rotting" }
+│                        ← StrChunk ..0000.16195!2 len:4 { "of" }
+│                          ← StrChunk ..0000.16180!1 len:1 { " " }
+│                            ← StrChunk ..0000.16181!3 len:0 [3]
+│                          → StrChunk ..0000.16194!1 len:1 { " " }
+│                        → StrChunk ..0000.16206!4 len:6 { "fish" }
+│                          ← StrChunk ..0000.16197!1 len:1 { " " }
+│                          → StrChunk ..0000.16205!1 len:1 { " " }
+│                      → StrChunk ..0000.16221!5 len:17 { "suffo" }
+│                        ← StrChunk ..0000.16217!3 len:5 { "she" }
+│                          ← StrChunk ..0000.16210!1 len:1 { " " }
+│                          → StrChunk ..0000.16216!1 len:1 { " " }
+│                        → StrChunk ..0000.16226!1 len:7 [1]
+│                          ← StrChunk ..0000.16228!6 len:6 { "cated." }
+│                          → StrChunk ..0000.16220!1 len:1 { " " }
+│                  → StrChunk ..0000.16439!1 len:162 { " " }
+│                    ← StrChunk ..0000.16184!1 len:126 [1]
+│                      ← StrChunk ..0000.16246!1 len:0 [1]
+│                        ← StrChunk ..0000.16241!1 len:0 [1]
+│                          ← StrChunk ..0000.16242!4 len:0 [4]
+│                            ← StrChunk ..0000.16235!1 len:0 [1]
+│                          → StrChunk ..0000.16247!3 len:0 [3]
+│                        → StrChunk ..0000.16250!1 len:0 [1]
+│                          ← StrChunk ..0000.16251!7 len:0 [7]
+│                          → StrChunk ..0000.16258!1 len:0 [1]
+│                      → StrChunk ..0000.16314!16 len:126 { "s all forms of \"" }
+│                        ← StrChunk ..0000.16260!1 len:79 { "t" }
+│                          ← StrChunk ..0000.16037!30 len:31 { " won't go through all the (fan" }
+│                            ← StrChunk ..0000.16034!1 len:1 { "I" }
+│                          → StrChunk ..0000.16263!47 len:47 { "astic) sledges issued by the tea" … }
+│                        → StrChunk ..0000.16341!24 len:31 { "ou aren't here with us. " }
+│                          ← StrChunk ..0000.16338!1 len:1 { "Y" }
+│                          → StrChunk ..0000.16440!6 len:6 { "You're" }
+│                    → StrChunk ..0000.16430!2 len:35 { "e " }
+│                      ← StrChunk ..0000.16468!1 len:18 { "w" }
+│                        ← StrChunk ..0000.16460!3 len:17 { "and" }
+│                          ← StrChunk ..0000.16446!1 len:13 { " " }
+│                            ← StrChunk ..0000.16447!12 len:12 { "dissociating" }
+│                          → StrChunk ..0000.16459!1 len:1 { " " }
+│                        → StrChunk ..0000.16465!1 len:0 [1]
+│                          ← StrChunk ..0000.16463!1 len:0 [1]
+│                          → StrChunk ..0000.16429!1 len:0 [1]
+│                      → StrChunk ..0000.16433!5 len:15 { "on't " }
+│                        ← StrChunk ..0000.16365!4 len:1 [4]
+│                          ← StrChunk ..0000.16427!1 len:0 [1]
+│                          → StrChunk ..0000.16369!1 len:1 { "d" }
+│                        → StrChunk ..0000.16469!1 len:9 { " " }
+│                          ← StrChunk ..0000.16470!4 len:4 { "feel" }
+│                          → StrChunk ..0000.16475!4 len:4 { "like" }
+│                → StrChunk ..0000.15983!2 len:607 [2]
+│                  ← StrChunk ..0000.16628!6 len:317 { "ancer " }
+│                    ← StrChunk ..0000.16386!10 len:173 { "us and we " }
+│                      ← StrChunk ..0000.16489!4 len:14 { "like" }
+│                        ← StrChunk ..0000.16484!4 len:9 { "even" }
+│                          ← StrChunk ..0000.16479!1 len:4 { " " }
+│                            ← StrChunk ..0000.16480!3 len:3 { "you" }
+│                          → StrChunk ..0000.16483!1 len:1 { " " }
+│                        → StrChunk ..0000.16432!1 len:1 [1]
+│                          ← StrChunk ..0000.16488!1 len:1 { " " }
+│                          → StrChunk ..0000.16370!16 len:0 [16]
+│                      → StrChunk ..0000.16505!33 len:149 { ", I know exactly what the teache" … }
+│                        ← StrChunk ..0000.16406!20 len:28 { " you because of it\"." }
+│                          ← StrChunk ..0000.16396!10 len:4 [10]
+│                            ← StrChunk ..0000.16495!4 len:4 { "hate" }
+│                          → StrChunk ..0000.16499!4 len:4 { " And" }
+│                        → StrChunk ..0000.16656!1 len:88 { "c" }
+│                          ← StrChunk ..0000.16540!87 len:87 { "s were getting at with all of th" … }
+│                          → StrChunk ..0000.16627!1 len:0 [1]
+│                    → StrChunk ..0000.16712!2 len:138 [2]
+│                      ← StrChunk ..0000.16760!22 len:138 { "n't for the performer." }
+│                        ← StrChunk ..0000.16716!26 len:107 { "you improve with that? But" }
+│                          ← StrChunk ..0000.16657!55 len:68 { "I know what they meant. Its terr" … }
+│                            ← StrChunk ..0000.16642!13 len:13 { "on stage and " }
+│                          → StrChunk ..0000.16745!13 len:13 { " maybe it was" }
+│                        → StrChunk ..0000.16793!1 len:9 [1]
+│                          ← StrChunk ..0000.16784!9 len:9 { " I dunno." }
+│                          → StrChunk ..0000.16758!1 len:0 [1]
+│                      → StrChunk ..0000.16310!2 len:0 [2]
+│                        ← StrChunk ..0000.16538!1 len:0 [1]
+│                          ← StrChunk ..0000.16634!4 len:0 [4]
+│                          → StrChunk ..0000.16503!1 len:0 [1]
+│                        → StrChunk ..0000.15997!13 len:0 [13]
+│                          ← StrChunk ..0000.15987!8 len:0 [8]
+│                          → StrChunk ..0000.15995!1 len:0 [1]
+│                  → StrChunk ..0000.14607!28 len:290 { "Come on stage with a dream. " }
+│                    ← StrChunk ..0000.15537!2 len:201 { "\n\n" }
+│                      ← StrChunk ..0000.15694!5 len:0 [5]
+│                        ← StrChunk ..0000.15717!2 len:0 [2]
+│                          ← StrChunk ..0000.15693!1 len:0 [1]
+│                            ← StrChunk ..0000.15887!2 len:0 [2]
+│                          → StrChunk ..0000.15720!5 len:0 [5]
+│                        → StrChunk ..0000.15627!1 len:0 [1]
+│                          ← StrChunk ..0000.15676!2 len:0 [2]
+│                          → StrChunk ..0000.15601!12 len:0 [12]
+│                      → StrChunk ..0000.11046!5 len:199 { "orked" }
+│                        ← StrChunk ..0000.10945!87 len:118 { "dvice they gave us in clown scho" … }
+│                          ← StrChunk ..0000.10914!26 len:26 { "I wrote down some of the a" }
+│                          → StrChunk ..0000.11039!5 len:5 { "did w" }
+│                        → StrChunk ..0000.11085!28 len:76 { "Stop being so conventional. " }
+│                          ← StrChunk ..0000.11074!2 len:2 { ". " }
+│                          → StrChunk ..0000.11115!46 len:46 { "Be sensitive. Look at us - show " … }
+│                    → StrChunk ..0000.13283!1 len:61 [1]
+│                      ← StrChunk ..0000.11237!1 len:61 { " " }
+│                        ← StrChunk ..0000.11213!17 len:60 { "ind your impulse!" }
+│                          ← StrChunk ..0000.11209!1 len:43 { "F" }
+│                            ← StrChunk ..0000.11161!42 len:42 { "Stop bringing your shitty ideas " … }
+│                          → StrChunk ..0000.11236!1 len:0 [1]
+│                        → StrChunk ..0000.13279!1 len:0 [1]
+│                          ← StrChunk ..0000.13280!3 len:0 [3]
+│                          → StrChunk ..0000.13284!4 len:0 [4]
+│                      → StrChunk ..0000.13291!1 len:0 [1]
+│                        ← StrChunk ..0000.13288!1 len:0 [1]
+│                          ← StrChunk ..0000.13289!2 len:0 [2]
+│                          → StrChunk ..0000.13292!5 len:0 [5]
+│                        → StrChunk ..0000.13297!1 len:0 [1]
+│                          ← StrChunk ..0000.13298!2 len:0 [2]
+│                          → StrChunk ..0000.13301!6 len:0 [6]
+│              → StrChunk ..0000.12316!9 len:1573 { "ing it). " }
+│                ← StrChunk ..0000.12099!29 len:863 { " - when everyone in the room " }
+│                  ← StrChunk ..0000.11415!33 len:452 { "tand up in front of everyone and" … }
+│                    ← StrChunk ..0000.11356!26 len:170 { "The first exercise we did " }
+│                      ← StrChunk ..0000.11341!1 len:103 [1]
+│                        ← StrChunk ..0000.11311!30 len:77 { "sense. Its in the subtle realm" }
+│                          ← StrChunk ..0000.11284!25 len:37 { "impossible to do in some " }
+│                            ← StrChunk ..0000.11238!12 len:12 { "This is all " }
+│                          → StrChunk ..0000.11343!10 len:10 { ". But its " }
+│                        → StrChunk ..0000.11260!24 len:26 { "fucking fantastic advice" }
+│                          ← StrChunk ..0000.11309!1 len:0 [1]
+│                          → StrChunk ..0000.11353!2 len:2 { ". " }
+│                      → StrChunk ..0000.11473!1 len:41 { "s" }
+│                        ← StrChunk ..0000.11414!1 len:35 { "s" }
+│                          ← StrChunk ..0000.11455!18 len:22 { "one of my favorite" }
+│                            ← StrChunk ..0000.11410!4 len:4 { "was " }
+│                          → StrChunk ..0000.11474!12 len:12 { ". They got u" }
+│                        → StrChunk ..0000.11487!2 len:5 [2]
+│                          ← StrChunk ..0000.11491!4 len:4 { " to " }
+│                          → StrChunk ..0000.11486!1 len:1 { "s" }
+│                    → StrChunk ..0000.11630!12 len:249 { "dad! I'm in " }
+│                      ← StrChunk ..0000.11594!3 len:115 { "ome" }
+│                        ← StrChunk ..0000.11566!9 len:69 { "And we'd " }
+│                          ← StrChunk ..0000.11554!2 len:59 { ". " }
+│                            ← StrChunk ..0000.11495!57 len:57 { "imagine we're in a giant stadium" … }
+│                          → StrChunk ..0000.11577!1 len:1 { "c" }
+│                        → StrChunk ..0000.11582!11 len:43 { " on stage (" }
+│                          ← StrChunk ..0000.11578!4 len:0 [4]
+│                          → StrChunk ..0000.11597!32 len:32 { "one by one) and say \"Hi mum! Hi " }
+│                      → StrChunk ..0000.11676!2 len:122 { "pe" }
+│                        ← StrChunk ..0000.11664!1 len:4 { "t" }
+│                          ← StrChunk ..0000.11658!1 len:1 { "E" }
+│                          → StrChunk ..0000.11671!2 len:2 { "am" }
+│                        → StrChunk ..0000.11685!1 len:116 { "I" }
+│                          ← StrChunk ..0000.11681!3 len:3 { "s! " }
+│                          → StrChunk ..0000.11698!112 len:112 { "'m going to sing you a song!\" an" … }
+│                  → StrChunk ..0000.12181!3 len:382 { "get" }
+│                    ← StrChunk ..0000.12159!1 len:35 { " " }
+│                      ← StrChunk ..0000.12150!1 len:17 { " " }
+│                        ← StrChunk ..0000.12134!1 len:10 { " " }
+│                          ← StrChunk ..0000.12128!6 len:4 [6]
+│                            ← StrChunk ..0000.12146!4 len:4 { "gets" }
+│                          → StrChunk ..0000.12151!5 len:5 { "bored" }
+│                        → StrChunk ..0000.12156!1 len:6 { " " }
+│                          ← StrChunk ..0000.12157!2 len:2 { "of" }
+│                          → StrChunk ..0000.12160!3 len:3 { "you" }
+│                      → StrChunk ..0000.12174!3 len:17 { "you" }
+│                        ← StrChunk ..0000.12168!5 len:10 { "wants" }
+│                          ← StrChunk ..0000.12163!1 len:4 { " " }
+│                            ← StrChunk ..0000.12164!3 len:3 { "and" }
+│                          → StrChunk ..0000.12167!1 len:1 { " " }
+│                        → StrChunk ..0000.12178!2 len:4 { "to" }
+│                          ← StrChunk ..0000.12173!1 len:1 { " " }
+│                          → StrChunk ..0000.12177!1 len:1 { " " }
+│                    → StrChunk ..0000.11884!8 len:344 { " watched" }
+│                      ← StrChunk ..0000.12188!1 len:78 [1]
+│                        ← StrChunk ..0000.12184!1 len:10 { " " }
+│                          ← StrChunk ..0000.12185!3 len:4 { "off" }
+│                            ← StrChunk ..0000.12180!1 len:1 { " " }
+│                          → StrChunk ..0000.12189!5 len:5 { "stage" }
+│                        → StrChunk ..0000.11810!57 len:68 { ", notice it and acknowledge it. " … }
+│                          ← StrChunk ..0000.12135!10 len:0 [10]
+│                          → StrChunk ..0000.11871!11 len:11 { "sure that I" }
+│                      → StrChunk ..0000.12004!65 len:258 { "ran away once I flopped. Sagged " … }
+│                        ← StrChunk ..0000.11926!41 len:99 { "e that day. One by one. Each in " … }
+│                          ← StrChunk ..0000.11896!28 len:28 { " a room full of 25 people di" }
+│                          → StrChunk ..0000.11969!30 len:30 { "eautiful, sad ways. I kind of " }
+│                        → StrChunk ..0000.12243!41 len:94 { "they weren't flopping. Or tried " … }
+│                          ← StrChunk ..0000.12071!25 len:25 { " people tried to pretend " }
+│                          → StrChunk ..0000.12286!28 len:28 { "nother song. (We weren't buy" }
+│                → StrChunk ..0000.12284!1 len:701 [1]
+│                  ← StrChunk ..0000.12654!2 len:568 { "he" }
+│                    ← StrChunk ..0000.12463!1 len:239 { " " }
+│                      ← StrChunk ..0000.12360!1 len:67 { "." }
+│                        ← StrChunk ..0000.12362!11 len:27 { "physically " }
+│                          ← StrChunk ..0000.12333!11 len:12 { "ome people " }
+│                            ← StrChunk ..0000.12327!1 len:1 { "S" }
+│                          → StrChunk ..0000.12351!4 len:4 { "fled" }
+│                        → StrChunk ..0000.12401!1 len:39 { "M" }
+│                          ← StrChunk ..0000.12375!16 len:16 { " Or apologised. " }
+│                          → StrChunk ..0000.12405!22 len:22 { "ost of us looked down." }
+│                      → StrChunk ..0000.12521!71 len:171 { "ts the most remarkable thing, be" … }
+│                        ← StrChunk ..0000.12513!1 len:39 [1]
+│                          ← StrChunk ..0000.12510!1 len:38 [1]
+│                            ← StrChunk ..0000.12465!38 len:38 { "But - show us your eyes. We miss" … }
+│                          → StrChunk ..0000.12503!1 len:1 { "I" }
+│                        → StrChunk ..0000.12504!3 len:61 { "n t" }
+│                          ← StrChunk ..0000.12520!1 len:1 { "I" }
+│                          → StrChunk ..0000.12593!57 len:57 { "he audience its so obvious what " … }
+│                    → StrChunk ..0000.12866!1 len:327 [1]
+│                      ← StrChunk ..0000.12758!74 len:327 { "ith. When we get bored of their " … }
+│                        ← StrChunk ..0000.12696!19 len:92 { "over the very thing" }
+│                          ← StrChunk ..0000.12715!10 len:47 { "with them " }
+│                            ← StrChunk ..0000.12657!37 len:37 { " performers eyes. We want to con" … }
+│                          → StrChunk ..0000.12725!26 len:26 { " that they're struggling w" }
+│                        → StrChunk ..0000.12872!132 len:161 { "Except, when you're on stage and" … }
+│                          ← StrChunk ..0000.12836!29 len:29 { "the real them shine through. " }
+│                          → StrChunk ..0000.13004!1 len:0 [1]
+│                      → StrChunk ..0000.12507!3 len:0 [3]
+│                        ← StrChunk ..0000.12694!1 len:0 [1]
+│                          ← StrChunk ..0000.12751!6 len:0 [6]
+│                          → StrChunk ..0000.12650!3 len:0 [3]
+│                        → StrChunk ..0000.12443!4 len:0 [4]
+│                          ← StrChunk ..0000.12438!1 len:0 [1]
+│                          → StrChunk ..0000.12314!1 len:0 [1]
+│                  → StrChunk ..0000.11203!1 len:133 [1]
+│                    ← StrChunk ..0000.11561!1 len:0 [1]
+│                      ← StrChunk ..0000.11892!2 len:0 [2]
+│                        ← StrChunk ..0000.11967!1 len:0 [1]
+│                          ← StrChunk ..0000.11999!4 len:0 [4]
+│                            ← StrChunk ..0000.12069!1 len:0 [1]
+│                          → StrChunk ..0000.11924!1 len:0 [1]
+│                        → StrChunk ..0000.11665!3 len:0 [3]
+│                          ← StrChunk ..0000.11867!2 len:0 [2]
+│                          → StrChunk ..0000.11575!1 len:0 [1]
+│                      → StrChunk ..0000.11396!3 len:0 [3]
+│                        ← StrChunk ..0000.11552!1 len:0 [1]
+│                          ← StrChunk ..0000.11556!1 len:0 [1]
+│                          → StrChunk ..0000.11382!8 len:0 [8]
+│                        → StrChunk ..0000.11390!1 len:0 [1]
+│                          ← StrChunk ..0000.11401!1 len:0 [1]
+│                          → StrChunk ..0000.11210!2 len:0 [2]
+│                    → StrChunk ..0000.13107!1 len:133 { "B" }
+│                      ← StrChunk ..0000.10940!4 len:46 [4]
+│                        ← StrChunk ..0000.11044!1 len:0 [1]
+│                          ← StrChunk ..0000.11051!1 len:0 [1]
+│                            ← StrChunk ..0000.11076!1 len:0 [1]
+│                          → StrChunk ..0000.11032!6 len:0 [6]
+│                        → StrChunk ..0002.12325!1 len:46 { "\n" }
+│                          ← StrChunk ..0000.10913!1 len:1 { "\n" }
+│                          → StrChunk ..0000.13013!44 len:44 { "There's the heart of clowning, r" … }
+│                      → StrChunk ..0000.13144!24 len:86 { ". Connection. Acknowledg" }
+│                        ← StrChunk ..0000.13114!30 len:48 { "h of those things. Sensitivity" }
+│                          ← StrChunk ..0000.13109!2 len:2 { "ot" }
+│                          → StrChunk ..0000.13201!16 len:16 { " to the audience" }
+│                        → StrChunk ..0000.13175!10 len:14 { " the flop." }
+│                          ← StrChunk ..0000.13170!3 len:3 { "ing" }
+│                          → StrChunk ..0000.13188!1 len:1 { " " }
+│            → StrChunk ..0001.15294!3 len:3377 { "eme" }
+│              ← StrChunk ..0002.12790!21 len:1881 { "the world seemed to w" }
+│                ← StrChunk ..0000.13353!1 len:676 [1]
+│                  ← StrChunk ..0000.13802!4 len:360 { "care" }
+│                    ← StrChunk ..0000.13629!4 len:316 { "love" }
+│                      ← StrChunk ..0000.13546!4 len:179 { "'re " }
+│                        ← StrChunk ..0000.13496!32 len:172 { "sparkle of having a dream, of so" }
+│                          ← StrChunk ..0000.13402!87 len:128 { "up. The most beautiful thing in " … }
+│                            ← StrChunk ..0000.13357!41 len:41 { " - finding something fun that li" … }
+│                          → StrChunk ..0000.13530!12 len:12 { "mething they" }
+│                        → StrChunk ..0000.13550!8 len:3 [8]
+│                          ← StrChunk ..0000.13626!2 len:2 { "in" }
+│                          → StrChunk ..0000.13558!1 len:1 { " " }
+│                      → StrChunk ..0000.13669!2 len:133 { " S" }
+│                        ← StrChunk ..0000.13633!1 len:21 { " " }
+│                          ← StrChunk ..0000.13634!4 len:5 { "with" }
+│                            ← StrChunk ..0000.13628!1 len:1 { " " }
+│                          → StrChunk ..0000.13559!15 len:15 { "in that moment." }
+│                        → StrChunk ..0000.13796!5 len:110 { "don't" }
+│                          ← StrChunk ..0000.13672!104 len:104 { "omething they want to share. It " … }
+│                          → StrChunk ..0000.13795!1 len:1 { " " }
+│                    → StrChunk ..0000.13823!1 len:40 { " " }
+│                      ← StrChunk ..0000.13809!1 len:20 { " " }
+│                        ← StrChunk ..0000.13806!1 len:8 { " " }
+│                          ← StrChunk ..0000.13807!2 len:3 { "if" }
+│                            ← StrChunk ..0000.13801!1 len:1 { " " }
+│                          → StrChunk ..0000.13810!4 len:4 { "they" }
+│                        → StrChunk ..0000.13814!1 len:11 { " " }
+│                          ← StrChunk ..0000.13815!8 len:8 { "succeed." }
+│                          → StrChunk ..0000.13824!2 len:2 { "We" }
+│                      → StrChunk ..0000.13489!3 len:19 [3]
+│                        ← StrChunk ..0000.13542!2 len:19 [2]
+│                          ← StrChunk ..0000.13776!19 len:19 { "want them to *try*." }
+│                          → StrChunk ..0000.13528!1 len:0 [1]
+│                        → StrChunk ..0000.13308!1 len:0 [1]
+│                          ← StrChunk ..0000.13398!2 len:0 [2]
+│                          → StrChunk ..0000.13351!1 len:0 [1]
+│                  → StrChunk ..0002.12592!26 len:316 { " or being a wimp or a wuss" }
+│                    ← StrChunk ..0002.12427!67 len:211 { "sual thing for me - being \"sensi" … }
+│                      ← StrChunk ..0000.13011!2 len:83 { "\n\n" }
+│                        ← StrChunk ..0000.13089!9 len:0 [9]
+│                          ← StrChunk ..0000.13057!8 len:0 [8]
+│                            ← StrChunk ..0000.13309!14 len:0 [14]
+│                          → StrChunk ..0000.13071!7 len:0 [7]
+│                        → StrChunk ..0002.12380!2 len:81 { "th" }
+│                          ← StrChunk ..0002.12326!53 len:53 { "They kept coming back to sensiti" … }
+│                          → StrChunk ..0002.12391!26 len:26 { "is already is quite an unu" }
+│                      → StrChunk ..0002.12569!3 len:61 { "sen" }
+│                        ← StrChunk ..0002.12551!4 len:51 { "code" }
+│                          ← StrChunk ..0002.12544!2 len:37 { "e " }
+│                            ← StrChunk ..0002.12504!35 len:35 { "very day or two, and it seemed t" … }
+│                          → StrChunk ..0002.12557!10 len:10 { " for \"over" }
+│                        → StrChunk ..0002.12582!1 len:7 { "e" }
+│                          ← StrChunk ..0002.12575!5 len:5 { "sitiv" }
+│                          → StrChunk ..0002.12586!1 len:1 { "\"" }
+│                    → StrChunk ..0002.12694!1 len:79 { " " }
+│                      ← StrChunk ..0002.12669!3 len:37 { "80s" }
+│                        ← StrChunk ..0002.12647!1 len:23 { " " }
+│                          ← StrChunk ..0002.12628!5 len:8 { " some" }
+│                            ← StrChunk ..0002.12620!3 len:3 { " or" }
+│                          → StrChunk ..0002.12651!14 len:14 { "other kind of " }
+│                        → StrChunk ..0002.12681!5 len:11 { "ustra" }
+│                          ← StrChunk ..0002.12675!2 len:2 { " A" }
+│                          → StrChunk ..0002.12689!4 len:4 { "lian" }
+│                      → StrChunk ..0002.12715!2 len:41 { "r " }
+│                        ← StrChunk ..0002.12704!1 len:8 { "g" }
+│                          ← StrChunk ..0002.12697!4 len:4 { "slan" }
+│                          → StrChunk ..0002.12709!3 len:3 { " fo" }
+│                        → StrChunk ..0002.12761!23 len:31 { "ing things too deeply w" }
+│                          ← StrChunk ..0002.12756!4 len:4 { "feel" }
+│                          → StrChunk ..0002.12785!4 len:4 { "hen " }
+│                → StrChunk ..0002.13404!1 len:1184 { "t" }
+│                  ← StrChunk ..0002.12986!4 len:375 { " any" }
+│                    ← StrChunk ..0002.12882!4 len:95 { "fit " }
+│                      ← StrChunk ..0002.12845!3 len:39 { "e c" }
+│                        ← StrChunk ..0002.12828!1 len:22 { "t" }
+│                          ← StrChunk ..0002.12820!4 len:8 { "you " }
+│                            ← StrChunk ..0002.12814!4 len:4 { "ant " }
+│                          → StrChunk ..0002.12831!13 len:13 { "o not care, b" }
+│                        → StrChunk ..0002.12865!4 len:14 { "not " }
+│                          ← StrChunk ..0002.12851!5 len:5 { "ool, " }
+│                          → StrChunk ..0002.12875!5 len:5 { "try, " }
+│                      → StrChunk ..0002.12938!4 len:52 { "ever" }
+│                        ← StrChunk ..0002.12899!1 len:27 { " " }
+│                          ← StrChunk ..0002.12894!1 len:3 { "," }
+│                            ← StrChunk ..0002.12888!2 len:2 { "in" }
+│                          → StrChunk ..0002.12913!23 len:23 { "cruise through and not " }
+│                        → StrChunk ..0002.12963!13 len:21 { "too intereste" }
+│                          ← StrChunk ..0002.12947!4 len:4 { " be " }
+│                          → StrChunk ..0002.12980!4 len:4 { "d in" }
+│                    → StrChunk ..0002.13228!64 len:276 { "to hear that sensitivity on stag" … }
+│                      ← StrChunk ..0002.13130!1 len:152 { " " }
+│                        ← StrChunk ..0002.13032!2 len:78 { "ow" }
+│                          ← StrChunk ..0002.13006!23 len:30 { "This seemed a bit shall" }
+│                            ← StrChunk ..0002.12992!7 len:7 { "thing. " }
+│                          → StrChunk ..0002.13082!46 len:46 { ", not as a slight but as a liter" … }
+│                        → StrChunk ..0002.13136!5 len:73 { "like " }
+│                          ← StrChunk ..0002.13133!2 len:2 { "- " }
+│                          → StrChunk ..0002.13158!66 len:66 { "trailing your fingers in some wa" … }
+│                      → StrChunk ..0002.13359!1 len:60 { "G" }
+│                        ← StrChunk ..0002.13323!13 len:41 { "strangely ref" }
+│                          ← StrChunk ..0002.13297!11 len:11 { "ell it was " }
+│                          → StrChunk ..0002.13338!17 len:17 { "eshing. Go deep. " }
+│                        → StrChunk ..0002.13380!10 len:18 { "ur clothes" }
+│                          ← StrChunk ..0002.13372!5 len:5 { "et yo" }
+│                          → StrChunk ..0002.13397!3 len:3 { " we" }
+│                  → StrChunk ..0002.13704!2 len:808 { "w " }
+│                    ← StrChunk ..0002.13544!1 len:213 { " " }
+│                      ← StrChunk ..0002.13498!18 len:77 { "feel like you're d" }
+│                        ← StrChunk ..0002.13453!7 len:44 { "in too " }
+│                          ← StrChunk ..0002.13448!3 len:5 { "Go " }
+│                            ← StrChunk ..0002.13410!2 len:2 { ". " }
+│                          → StrChunk ..0002.13464!32 len:32 { "deep and flounder, and it might " }
+│                        → StrChunk ..0002.13534!4 len:15 { "but " }
+│                          ← StrChunk ..0002.13521!8 len:8 { "rowning " }
+│                          → StrChunk ..0002.13540!3 len:3 { "you" }
+│                      → StrChunk ..0002.13569!72 len:135 { "Your ego takes a massive hit. Yo" … }
+│                        ← StrChunk ..0002.13552!4 len:9 { "vive" }
+│                          ← StrChunk ..0002.13546!3 len:3 { "sur" }
+│                          → StrChunk ..0002.13560!2 len:2 { ". " }
+│                        → StrChunk ..0002.13691!6 len:54 { "veryon" }
+│                          ← StrChunk ..0002.13643!44 len:44 { ", inescapable shame that you are" … }
+│                          → StrChunk ..0002.13699!4 len:4 { "e sa" }
+│                    → StrChunk ..0001.15244!6 len:593 { "token " }
+│                      ← StrChunk ..0001.14385!1 len:570 [1]
+│                        ← StrChunk ..0001.14342!43 len:561 { "fe laugh and you know that there" … }
+│                          ← StrChunk ..0001.13826!514 len:517 { " instead it barely rates a blip " … }
+│                            ← StrChunk ..0002.13710!3 len:3 { "and" }
+│                          → StrChunk ..0001.15227!1 len:1 { "y" }
+│                        → StrChunk ..0001.15235!1 len:9 { "o" }
+│                          ← StrChunk ..0001.14386!6 len:6 { " wins " }
+│                          → StrChunk ..0001.15240!2 len:2 { "r " }
+│                      → StrChunk ..0001.15266!1 len:17 { " " }
+│                        ← StrChunk ..0001.15256!4 len:8 { "ords" }
+│                          ← StrChunk ..0001.15252!1 len:1 { "w" }
+│                          → StrChunk ..0001.15261!3 len:3 { " of" }
+│                        → StrChunk ..0001.15281!2 len:8 { "co" }
+│                          ← StrChunk ..0001.15270!2 len:2 { "en" }
+│                          → StrChunk ..0001.15286!4 len:4 { "urag" }
+│              → StrChunk ..0001.16762!5 len:1493 { "w cha" }
+│                ← StrChunk ..0000.14871!2 len:992 [2]
+│                  ← StrChunk ..0000.15125!3 len:501 [3]
+│                    ← StrChunk ..0000.14823!48 len:422 { "And thats it. You don't get reje" … }
+│                      ← StrChunk ..0001.14547!1 len:156 { "t" }
+│                        ← StrChunk ..0001.14457!11 len:134 { "You survive" }
+│                          ← StrChunk ..0001.14392!63 len:66 { "in French clown school and it fe" … }
+│                            ← StrChunk ..0001.15299!3 len:3 { "nt " }
+│                          → StrChunk ..0001.14470!57 len:57 { "d. People still want to be your " … }
+│                        → StrChunk ..0001.14541!6 len:21 { "tribe." }
+│                          ← StrChunk ..0001.14527!12 len:12 { "ed from the " }
+│                          → StrChunk ..0001.14548!3 len:3 { " \n\n" }
+│                      → StrChunk ..0000.15049!28 len:218 { ", and not connecting with th" }
+│                        ← StrChunk ..0000.14944!43 len:158 { "Really, you get rejected for the" … }
+│                          ← StrChunk ..0000.14887!51 len:61 { " For taking a risk and having it" … }
+│                            ← StrChunk ..0000.14875!10 len:10 { "something." }
+│                          → StrChunk ..0000.14991!54 len:54 { "For being small. For being insen" … }
+│                        → StrChunk ..0000.15104!21 len:32 { "You get rejected impl" }
+│                          ← StrChunk ..0000.15081!4 len:4 { "em. " }
+│                          → StrChunk ..0000.15131!7 len:7 { "icitly " }
+│                    → StrChunk ..0000.15092!3 len:79 [3]
+│                      ← StrChunk ..0000.15144!1 len:13 [1]
+│                        ← StrChunk ..0000.15086!1 len:8 { "o" }
+│                          ← StrChunk ..0000.15138!6 len:6 { "when y" }
+│                            ← StrChunk ..0000.15085!1 len:0 [1]
+│                          → StrChunk ..0000.15145!1 len:1 { "u" }
+│                        → StrChunk ..0000.15088!4 len:5 { " tak" }
+│                          ← StrChunk ..0000.15087!1 len:0 [1]
+│                          → StrChunk ..0000.15152!1 len:1 { "e" }
+│                      → StrChunk ..0000.15045!2 len:66 [2]
+│                        ← StrChunk ..0000.15153!57 len:66 { " out of the running because you'" … }
+│                          ← StrChunk ..0000.15095!9 len:9 { " yourself" }
+│                          → StrChunk ..0000.15077!2 len:0 [2]
+│                        → StrChunk ..0000.14938!3 len:0 [3]
+│                          ← StrChunk ..0000.14987!3 len:0 [3]
+│                          → StrChunk ..0000.14885!1 len:0 [1]
+│                  → StrChunk ..0000.15427!1 len:491 { "M" }
+│                    ← StrChunk ..0000.15472!1 len:224 { "." }
+│                      ← StrChunk ..0000.15335!42 len:221 { "we're worth being impressed by t" … }
+│                        ← StrChunk ..0000.15245!65 len:108 { "people to connect with us. To tr" … }
+│                          ← StrChunk ..0000.15212!31 len:33 { "We want to be dazzled. We want " }
+│                            ← StrChunk ..0000.14818!2 len:2 { "\n\n" }
+│                          → StrChunk ..0000.15319!10 len:10 { "feel like " }
+│                        → StrChunk ..0000.15391!29 len:71 { " Its fun. It brings us alive." }
+│                          ← StrChunk ..0000.15385!4 len:4 { "ers." }
+│                          → StrChunk ..0000.15428!38 len:38 { " We want people to take risks on" … }
+│                      → StrChunk ..0000.15329!3 len:2 [3]
+│                        ← StrChunk ..0000.15389!1 len:0 [1]
+│                          ← StrChunk ..0000.15466!1 len:0 [1]
+│                            ← StrChunk ..0000.15468!2 len:0 [2]
+│                          → StrChunk ..0000.15377!4 len:0 [4]
+│                        → StrChunk ..0000.15243!1 len:2 [1]
+│                          ← StrChunk ..0000.15310!8 len:0 [8]
+│                          → StrChunk ..0000.15210!2 len:2 { "\n\n" }
+│                    → StrChunk ..0001.14633!48 len:266 { "life too. Depends on where your " … }
+│                      ← StrChunk ..0001.14560!19 len:59 { "just maybe, it's ok" }
+│                        ← StrChunk ..0001.14551!1 len:6 [1]
+│                          ← StrChunk ..0000.15425!1 len:0 [1]
+│                            ← StrChunk ..0000.15420!4 len:0 [4]
+│                          → StrChunk ..0001.14552!6 len:6 { "aybe, " }
+│                        → StrChunk ..0001.14619!1 len:34 { "r" }
+│                          ← StrChunk ..0001.14581!29 len:29 { " to take a few more risks in " }
+│                          → StrChunk ..0001.14627!4 len:4 { "eal " }
+│                      → StrChunk ..0001.16722!4 len:159 { "Wait" }
+│                        ← StrChunk ..0001.14700!123 len:136 { ". There are no easy rules - go m" … }
+│                          ← StrChunk ..0001.14687!11 len:11 { ", of course" }
+│                          → StrChunk ..0001.16681!2 len:2 { "\n\n" }
+│                        → StrChunk ..0001.16736!12 len:19 { "t's that?\n\n*" }
+│                          ← StrChunk ..0001.16727!5 len:5 { ", wha" }
+│                          → StrChunk ..0001.16758!2 len:2 { "lo" }
+│                → StrChunk ..0002.13292!1 len:496 [1]
+│                  ← StrChunk ..0001.17070!1 len:496 [1]
+│                    ← StrChunk ..0000.17214!31 len:496 { "\n\nPS: The stage is still scary." }
+│                      ← StrChunk ..0001.17024!46 len:399 { "whatever feelings this brings up" … }
+│                        ← StrChunk ..0001.16781!115 len:215 { "g* money back\n\nWhat???\n\n*GETTING" … }
+│                          ← StrChunk ..0001.16777!3 len:4 { "tin" }
+│                            ← StrChunk ..0001.16768!1 len:1 { "n" }
+│                          → StrChunk ..0001.16916!96 len:96 { "and they sense that the audience" … }
+│                        → StrChunk ..0001.17107!75 len:138 { "nd it out not down. Share it. \n\n" … }
+│                          ← StrChunk ..0001.17072!33 len:33 { "est feeling that comes up, and s" … }
+│                          → StrChunk ..0001.17184!30 len:30 { "ing new.\n\n*bows*\n\n-- THE END--" }
+│                      → StrChunk ..0000.17289!1 len:66 [1]
+│                        ← StrChunk ..0000.17308!22 len:66 { "on't even like clowns!" }
+│                          ← StrChunk ..0000.17291!13 len:44 { " Whyyyyy. I d" }
+│                            ← StrChunk ..0000.17258!31 len:31 { " The story isn't so neat. Urgh." }
+│                          → StrChunk ..0000.17304!2 len:0 [2]
+│                        → StrChunk ..0001.17182!1 len:0 [1]
+│                          ← StrChunk ..0000.17245!12 len:0 [12]
+│                          → StrChunk ..0001.17105!1 len:0 [1]
+│                    → StrChunk ..0001.14468!1 len:0 [1]
+│                      ← StrChunk ..0001.14681!3 len:0 [3]
+│                        ← StrChunk ..0001.16769!1 len:0 [1]
+│                          ← StrChunk ..0001.16896!10 len:0 [10]
+│                            ← StrChunk ..0001.17012!6 len:0 [6]
+│                          → StrChunk ..0001.14698!1 len:0 [1]
+│                        → StrChunk ..0001.14558!1 len:0 [1]
+│                          ← StrChunk ..0001.14579!1 len:0 [1]
+│                          → StrChunk ..0001.14539!1 len:0 [1]
+│                      → StrChunk ..0002.13516!1 len:0 [1]
+│                        ← StrChunk ..0001.14340!1 len:0 [1]
+│                          ← StrChunk ..0001.14455!1 len:0 [1]
+│                          → StrChunk ..0002.13641!1 len:0 [1]
+│                        → StrChunk ..0002.13392!1 len:0 [1]
+│                          ← StrChunk ..0002.13496!1 len:0 [1]
+│                          → StrChunk ..0002.13336!1 len:0 [1]
+│                  → StrChunk ..0000.1258!4 len:0 [4]
+│                    ← StrChunk ..0002.12417!3 len:0 [3]
+│                      ← StrChunk ..0002.13054!5 len:0 [5]
+│                        ← StrChunk ..0002.13041!4 len:0 [4]
+│                          ← StrChunk ..0002.13037!1 len:0 [1]
+│                            ← StrChunk ..0002.13224!2 len:0 [2]
+│                          → StrChunk ..0002.13046!4 len:0 [4]
+│                        → StrChunk ..0002.12634!2 len:0 [2]
+│                          ← StrChunk ..0002.12869!3 len:0 [3]
+│                          → StrChunk ..0002.12496!1 len:0 [1]
+│                      → StrChunk ..0000.11053!1 len:0 [1]
+│                        ← StrChunk ..0000.11052!1 len:0 [1]
+│                          ← StrChunk ..0002.12383!1 len:0 [1]
+│                          → StrChunk ..0000.11054!2 len:0 [2]
+│                        → StrChunk ..0000.7324!1 len:0 [1]
+│                          ← StrChunk ..0000.7325!1 len:0 [1]
+│                          → StrChunk ..0002.3865!2 len:0 [2]
+│                    → StrChunk ..0000.588!1 len:0 [1]
+│                      ← StrChunk ..0000.892!3 len:0 [3]
+│                        ← StrChunk ..0000.1200!1 len:0 [1]
+│                          ← StrChunk ..0000.1208!3 len:0 [3]
+│                            ← StrChunk ..0000.1248!2 len:0 [2]
+│                          → StrChunk ..0000.900!1 len:0 [1]
+│                        → StrChunk ..0000.727!1 len:0 [1]
+│                          ← StrChunk ..0000.729!2 len:0 [2]
+│                          → StrChunk ..0000.594!1 len:0 [1]
+│                      → StrChunk ..0002.114!1 len:0 [1]
+│                        ← StrChunk ..0002.366!1 len:0 [1]
+│                          ← StrChunk ..0002.424!1 len:0 [1]
+│                          → StrChunk ..0000.255!1 len:0 [1]
+│                        → StrChunk ..0000.3!8 len:0 [8]
+│                          ← StrChunk ..0002.51!1 len:0 [1]
+│                          → StrChunk ..0002.11!12 len:0 [12]
+│  
+├─ index (1 nodes)
+│  └─ str ..0000.1
+│  
+├─ view
+│  └─ "Clowny Wowny\n============\n\nWhen I see people again, they always ask, \"hey how was clown school.\"\n\nThis is a very hard question to answer, even more than the usual \"how was your holiday?\"\n\nIt was really hard, honestly. 4 weeks. Paris. 4 hours a day of stuff. Ugh. I'm procrastinating talking about it. It was ... harrowing.\n\nI just had the thought... we are the kind of people who went to French clown school. I never, never thought I would be *that* kind of person. I still don't think I'm *that* kind of person. Like, damn, when we were halfway through it I turned to my boyfriend and said \"wait why are we even here? I honestly don't remember. I don't even like clowns.\" And truly, whenever that Just For Laughs (hard word to spell when you are experiencing clown-based PTSD in real-time) was on TV or some aeroplane special as it lands, I would roll my eyes and subject my traveling partner to a realtime live feed of how cringe it is. \n\nAnd yet, here we were. \n\nYeah.\n\n^--- I like the term \"CLown based PTSD\". Its like, PTSD for returning servicemen. Except its PTSD for people who've been to clown school.\n\nYeah. Halfway through we turned to each other and said \"What are we even doing here? Do we even like clowns?\". No.\n\nI don't know why we went.\n\nI think I expected it to be funny. Or fun in some way. We were kinda joking a lot before we went that it was going to be 4 weeks of getting abused by a french mime or something. And thats kind of, totally, right.\n\nSo...\n\nIt was pretty bad. Lets talk about that first I guess. But don't get the wrong idea. I don't *regret* going. I'm just, a bit damaged from it all. I think. I'm glad I went. But I'm not sure I'd necessarily recommend it to most people.\n\nThinking back, I really want to work out why I/we decided to go and a lot of it was gut feeling. I just had this sense that it was the next bold step forward. And that is even weirder than it sounds (really? weirder than saying that going to French Clown School for 4 weeks is the next obvious step forward?) Because we had just done this 6 week course in clowning locally and it had really, REALLY freaked me out. Who would have thought it, eh? Isn't being funny actually fun?\n\nNO\n\nIT'S NOT\n\nSO SERIOUS> CLOWNING IS SRS BSNS.\n\nGET BETTER. Why are you still on stage? Stop being so traditional. I don't want to see your shitty ideas you spent the last 20 minutes coming up with.\n\nPEOPLE CHANTING \"MONEY BACK\" just as you are learning how to try to drop your walls and be vulnerable on stage.\n\nMoney back was pretty funny though. I want to shout money back at a lot of people in regular life.\n\n-- It's weird because I do too. It's weirdly satisfying to be able to point to the stage and in the simplest possible terms say \"that is not good.\" And to have some kind of influence on how much more of it you're going to see. To be heard, as the audience. Do you want more? Or do you want it to end in some quantumly (another tough one to spell) small increment of time? Sometimes in 2023 it feels like there's this pressure to say that everyone is great, all of the time, everyone is enough, all of the time. It also makes us a bit weaker at ever being able to take criticism. I am 100% good with criticism - in theory - and of course the practice of it still really smarts, and the words can haunt you at 2am. But hearing more of it lessens the impact and makes you genuinely more resilient to hearing actual criticism in the future. And real words of criticism are kind of invaluable feedback that can literally pave the way to improving so you're not just meandering all over the place, hoping you'll be praised into being supreme. Dolphins only respond to ppositive training (apparently). Maybe it means you can do tricks, but you don't have that inspired reserve of *something* if you're not willing to stare into the sun.\n\nYeah there's something essential and vital about knowing that you're allowed to be shit and that you can make mistakes in front of everyone and they'll tell you you're shit and we can move on. I think failure is scary when it's in the dark, and we don't know what will happen. When there's real shame associated with it. When its just - oh yeah, that didn't work, huh. then there's something that is defanged about it.\n\nDefanged is a great word. Very apposite for this experience.\n\nSo yeah, back to clown school...\n\nIt's not just that. There's something really essential to the experience of knowing that things are shit sometimes and that its important that we know. There's a philosophy underneath it all where we bravely stand up in front of everyone with a dream in our eyes and everyone gets to watch us flop. And we acknowledge that we didn't actually have all the answers even though we thought we would. And then someone else gets up, or saves the show by doing something else.\n\nI've been talking about it lately by describing a philosophy I think I've accidentally had since I was a kid. I think I believed that if I did everything \"right\" and nothing \"wrong\", then nobody would be able to take issue with me. And then I'd be safe because I'd be untouchable, and somehow everyone would love me because of how not flawed I am. I'd get an A+ in friendship. Anyway, thats absolutely stupid and the wrong way around. Do you love your most perfect friends for how perfect they are? Obviously not, thats silly. You love them for their flaws and how they boldly try to do things even when they fall apart. And when they fall apart we love that too.\n\nThe stage is the same. We want to see their eyes. We want it to be hard. We want to see the performers push, and struggle for their art. We love music where we can hear strain in the singers' voices, because they're really pushing themselves so hard for us.\n\nThere's this whole thing thats hard to name - around building sensitivity. But you have to say it with a french accent. Sensitivie' or something.\n\nSo do you wanna talk about what actually happened there?\n\nA surprising part about clown school is actually how little time you spend \"clowning\". And let me clear something up right away that I should have mentioned upfront. We did not wear wigs, or white face paint or anything like that. Well, actually yeah we did have red clown noses but we'll get to that. But when we refer to \"clowning\" it's really more like \"physical theatre\", related to improv and there were a fair few actors in the class, trying to enliven their performance on stage in the future. It was - well, like, sasha baran cohen was one of their ex students. Is Barat a clowning movie? Yeah it kind of is.\n\nSo yeah, it was 4 hours a day. 2 hours of movement (I love this in theory because it's all about loosening up and limbering up and getting more into you physical body because that is your instrument - I can't believe in hindsight that other places don't do this too. On the other hand, in practice I didn't like this quite so much because my knees are a bit sus from a past life as a ballet dancer and a lot of the movement felt like Primary School games *cue the SFX of children's playground taunts flashback*). Yikes. Then the next 2 hours was Le Jeu (the game) or Clowning. But they'd crammed 25 people or so into this class because the teacher was this master who'd been\naround for 40 years, so the appetite was here. And I don't know if this is a French thing but they didn't really bother to make sure \"everybody got a turn.\" And again, I will repeat what is becoming a kind of catchcry of mine about this whole experience. \"I actually kind of get what they were going for. It makes sense. But it also really hurt.\" Sitting for 2 hours watching other people metaphorically elbow each other in the face to try to get some stagetime in front of the master himself put me in this wildly frustrating bind - I absolutely did not want to feel like I'd sold out my morals instantly to try to push other people out of the way. But then again, the same people who were more unabashed about just taking their space on stage would keep reappearing and I'd spend two hours sitting in a chair, watching them flop on stage (as we all did - we all got less funny as time went on but will explain that later on). Sitting for 2 hours made you lose momentum and inspiration, and I felt myself shrinking and a wall coming up, trying to make it ok. \"It's fine. I'm ok with this. I won't elbow anyone in the ribs just to get some time on stage. I'll watch and listen and observe and take great notes.\" But it didn't feel ok. It felt like being complicit with getting pushed around by an arbitrary number of people in the class who'd sel-elected as being the ones who deserved more stagetime than anyone. It was a huge distraction. But I can see some benefit, even in a weird way. You kind of are going to have to learn to beleive in yourself and have this healthy almost singular drive to get on stage and *dazzle* the audience. No time like now to get that competitive edge (I am the baby of the family, and so my competitive drive never really developed. Who cares what others are doing? They're all older and smarter. I'm way more interested in my own thing, learning and improving on my own terms).\n\nIn comparison, I loved movement class. I felt so much more fit by the end. I've barely been exercising for the last few years and doing 2 hours every day was great.\n\nBut the broader context of that was le jeu. The Game. So, how do I describe it? Mmmm take a tennis ball and put it between your head and someone else's head, so you can look each other in the eyes. Then play with each other. Move so that the ball doesn't fall down. Don't try to \"win\" too hard. The goal is to make your partner laugh and to enjoy yourself. One of the best exercises we did regularly in movement class was stuff like that, and we'd all do it at the same time in pairs. Then a few pairs would get up and perform in front of everyone. It was obvious who we wanted to see more of, as the audience. And we'd point them out and try to name why we liked them a bit. But a lot of it was instinctive. \"Those two were boring. Those two were really funny for some reason\". We didn't all agree as a group - someone would love a couple for no good reason, and everyone else is like ???? you're cracked. But yeah, over and over again. Is it working yet? Was it fun? Am I doing \"fun\" right? (No, you're not).\n\nAnd then there's The Flop. Sooo, if you're on stage and you're boring and everyone hates you, we want you to get off stage. A lot of clowning was learning to become sensitive to the flop. And learning to acknowledge it. The audience knows when you flop. You'd think they'd want you to leave, or feel ashamed or something. But we don't. We want the clown to acknowledge it - everyone's acknowledgement is different. And then try something else. The teacher held a drum, and when it was beaten 3 times, thats it - you're out. \"Come with us\".\n\nThere's a book called \"The courage to be disliked\". In it they say that basically every problem in our lives comes down to a fear of being disliked by our peers. And there's something weirdly powerful about actually stepping into that particular fire pit and getting burned by it over and over again. It hurts. But the parts which burn away are the parts which can't do it. Can't face down those demons.\n\nI got one piece of feedback that I keep coming back to - something along the lines of kind of not liking or even kind of having a distaste for the audience heh heh is it that obvious? All the teaching staff were exquisitely sensitive, which is an odd thing to say when someone is telling you you're a terrible student or deeply unfunny. But the things they pointed at are real. I kind of don't need the audience, don't need their validation and I don't respect the things they cheer for (I just need to see what's trending on Audible - good GRIEF you have the entire world's collection of words and a limited time on earth and you are reading THAT celebrity ghostwritten memoir??? Really???) I had this experience of playing the *new* Guitar Hero back in the day and there were all these groupies in the front row, chanting and loving your songs and I just wanted to tell them to calm down and just chill. This seems to be the opposite to what a lot of celebrities and performers have - an irrationally strong drive to be loved by strangers. I think I kind of create my own world that's beautiful and adventurous and full of mystery and endlessly interesting, and then the spell is broken quickly and the dream fades as soon as I try to explain it to someone. \"Oh, that's just like this story I read, where .....\" And it kind of feels like it undermines the splendour, quickly dismisses it as just another thing. I don't really want to share it, unless of course someone else wanted to share that worldview, leap into it, look around, try it, lick the walls. #IntrovertDilemmas. I don't demand you like it. But I would want you to know what it is before you dismiss it. So yeah, clown school is where I learnt that, if you're sensitive (and maybe even if you're not), this is written on my face.\n\nThis is the thing. It was traumatic. We really do have clown based trauma. And, we're so much looser. I can't describe the looseness - like, I was in a lift earlier today and this girl got in - maybe 28 years old. We were chatting and she was half involved / listening to our conversation. It was kind of awkward. A few years ago I would have felt awful and so awkward - \"oh no, what did she think of us??\". Now, I just looked at her and said something - I can't remember what - in an attempt to acknowledge the conversation. She gave a weird smile then got out at her floor and that was that. It wasn't the best show on earth, but it was fiiine. There's nothing I'm holding on to after that. I think there's this quality thats hard to name where before I did clowning, I found it too overwhelming to really be present with how people saw me. If I thought about it too much I'd want to run away and dissociate. It was just too painful to face up to the reality that I'm not perfect. I'm flawed, and weak, and deeply unfunny and kind of disgusting and weird. And I couldn't bear to see myself reflected in that light. Clowning was 4 weeks of exposure therapy of being present with how boring we are. How we have nothing. And now, after having the truth of that perspective shoved in my face, in front of a room full of our peers over and over again... I dunno, something feels lighter. Being a fool in front of everyone is much easier - but so is everything else. The worst thing that'll happen is what - they'll hate me? Want their money back? So? And the best thing that happens is we connect - which was never quite possible so long as I was playing a con on them. I wanted something - approval, not rejection, something. We know. We can smell that desperation on others. Its boring and unattractive. Its disconnecting.\n\nThese words I'm using? They're familiar to me after clowning because thats what a lot of the feedback was like, and what it was about. Basically different versions of \"you're shit. Get off stage.\". On one of the first days I was told that I was so deeply unattractive on stage that the teacher now understood why people of the opposite sex become gay. Someone else was told that the teacher wishes she died by being put in a big rubbish bin (\"trash can\") full of rotting fish until she suffocated. I won't go through all the (fantastic) sledges issued by the teacher. But it was all forms of \"You aren't here with us. You're dissociating and we don't feel like you even like us and we hate you because of it\". And, I know exactly what the teachers were getting at with all of that. 4 weeks in and they're right! Someone got called a cancer on stage and I know what they meant. Its terrible feedback - how do you improve with that? But maybe it wasn't for the performer. I dunno.\n\nI wrote down some of the advice they gave us in clown school one day when I was feeling upset and like nothing I did worked. Stop being so conventional. Be sensitive. Look at us - show us your eyes. Come on stage with a dream. Stop bringing your shitty ideas on stage. Find your impulse! This is all impossible to do in some sense. Its in the subtle realm. But its fucking fantastic advice. The first exercise we did was one of my favorites. They got us to stand up in front of everyone and imagine we're in a giant stadium with thousands of people. And we'd come on stage (one by one) and say \"Hi mum! Hi dad! I'm in Etampes! I'm going to sing you a song!\" and then sing a song or say a poem we know or something. And when the flop happens - when everyone in the room gets bored of you and wants you to get off stage, notice it and acknowledge it. Well, I can tell you for sure that I watched a room full of 25 people die that day. One by one. Each in our own beautiful, sad ways. I kind of ran away once I flopped. Sagged into a ball and disappeared. Some people tried to pretend they weren't flopping. Or tried singing another song. (We weren't buying it). Some people physically fled. Or apologised. Most of us looked down. But - show us your eyes. We miss you. Its the most remarkable thing, being both on stage and in the audience. In the audience its so obvious what we want. We want to see the performers eyes. We want to connect with them over the very thing that they're struggling with. When we get bored of their boring shitty performance, we want to see the real them shine through. Except, when you're on stage and you flop, being seen is the last thing in the world you want. You just want to go and die in shame.\n\nThere's the heart of clowning, right there. Both of those things. Sensitivity to the audience. Connection. Acknowledging the flop. And being yourself. And play - finding something fun that lights you up. The most beautiful thing in the world is watching someone's eyes light up with the sparkle of having a dream, of something they're in love with in that moment. Something they want to share. It doesn't matter if it fails on stage. We're there with the performer. We don't care if they succeed. We want them to *try*.\n\nThey kept coming back to sensitivity constantly, and this already is quite an unusual thing for me - being \"sensitive\" was something I heard maybe every day or two, and it seemed to be code for \"oversensitive\" or being a wimp or a wuss or some other kind of 80s Australian slang for feeling things too deeply when the world seemed to want you to not care, be cool, not try, fit in, cruise through and not ever be too interested in anything. This seemed a bit shallow, not as a slight but as a literal observation - like trailing your fingers in some water and calling it \"swimming.\" So to hear that sensitivity on stage to the audience is an asset, well it was strangely refeshing. Go deep. Get your clothes wet. Go in too deep and flounder, and it might feel like you're drowning but you survive. Your ego takes a massive hit. You feel shame, good god do you feel shame, inescapable shame that you are sure that everyone saw and instead it barely rates a blip on the day's ECG of events. And you may turn up the day after (or the day after that, because you may sit at home, giving yourself some reprieve while eating your body weight in French boulangerie treats - almost a cliche, but a cliche for a DAMN good reason). But at some point, you go back to clown school, put on your sweaty tracksuit pants, and you realise you were basically cancelled in realtime on stage on Tuesday, but on Thursday you made the French master clown and his wife laugh and you know that there are no easy wins or token words of encouragement in French clown school and it feels amazing. Just another day. You survived. People still want to be your friend. You weren't rejected from the tribe. \n\nAnd thats it. You don't get rejected for trying something. For taking a risk and having it go well or badly. Really, you get rejected for the opposite. For being small. For being insensitive to the audience, and not connecting with them. You get rejected implicitly when you take yourself out of the running because you're too scared to be seen.\n\nWe want to be dazzled. We want people to connect with us. To try to connect with us. We want to feel like we're worth being impressed by the performers. Its fun. It brings us alive. We want people to take risks on stage.\n\nMaybe, just maybe, it's ok to take a few more risks in real life too. Depends on where your baseline started, of course. There are no easy rules - go more left, be more free. There is just increasing discernment, as someone wise once told me.\n\nWait, what's that?\n\n*low chanting* money back\n\nWhat???\n\n*GETTING LOUDER NOW* MONEY BACK! MONEY BACK!\n\nWhen the clown is sensitive to the audience, and they sense that the audience is losing interest, they must acknowledge this. They must take whatever feelings this brings up, find the truest feeling that comes up, and send it out not down. Share it. \n\nAnd then quickly change tack and try something new.\n\n*bows*\n\n-- THE END--\n\nPS: The stage is still scary. The story isn't so neat. Urgh. Whyyyyy. I don't even like clowns!"
+│  
+└─ clock 1000000.17330
+   ├─ 1000002.13712
+   └─ 1000001.17213
